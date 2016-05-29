@@ -1,0 +1,23 @@
+#+TITLE: 大神　祐真 (Ohgami Yuma)
+#+AUTHOR: 大神 祐真 (Ohgami Yuma)
+#+LANGUAGE: ja
+#+SETUPFILE: ~/git/org-html-themes/setup/theme-bigblow.setup
+#+OPTIONS: ^:{}
+
+* 名刺代わりなページ
+** 主な活動場所
+   | ブログ     | http://d.hatena.ne.jp/cupnes/ |
+   | 成果物など | http://funlinux.org           |
+
+** 主な活動
+*** フルスクラッチのOS自作(OS5)
+    - http://funlinux.org/os5/
+
+*** Raspberry Pi 3で64bitベアメタルプログラミング
+    - http://d.hatena.ne.jp/cupnes/20160529/1464513206
+
+** 連絡先
+   - E-Mail: yuma#ohgami.jp (#を@へ変更してください)
+
+** その他
+   - 旧姓: 荒川
