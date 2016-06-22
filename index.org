@@ -15,6 +15,8 @@
 
 *** Raspberry Pi 3で64bitベアメタルプログラミング
     - http://d.hatena.ne.jp/cupnes/20160529/1464513206
+    - [[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][OSC2016 HokkaidoのLT]]での発表スライド
+      #+HTML: <iframe src="http://www.slideshare.net/slideshow/embed_code/key/pqvIIB893zwf9S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yarakawa/qemuarm64bit" title="QEMUでARM64bitベアメタルプログラミング" target="_blank">QEMUでARM64bitベアメタルプログラミング</a> </strong> from <strong><a href="http://www.slideshare.net/yarakawa" target="_blank">yarakawa</a></strong> </div>
 
 ** 連絡先
    - E-Mail: yuma#ohgami.jp (#を@へ変更してください)
