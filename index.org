@@ -19,7 +19,14 @@
       #+HTML: <iframe src="http://www.slideshare.net/slideshow/embed_code/key/pqvIIB893zwf9S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yarakawa/qemuarm64bit" title="QEMUでARM64bitベアメタルプログラミング" target="_blank">QEMUでARM64bitベアメタルプログラミング</a> </strong> from <strong><a href="http://www.slideshare.net/yarakawa" target="_blank">yarakawa</a></strong> </div>
 
 ** 連絡先
-   - E-Mail: yuma#ohgami.jp (#を@へ変更してください)
+   - E-Mail :: yuma#ohgami.jp (#を@へ変更してください)
+   - GPG Key :: 0xF12327D6 ([[file:yuma_ohgami.pub.asc.txt][public key]])
+     #+BEGIN_EXAMPLE
+       pub   4096R/F12327D6 2016-06-18
+             Key fingerprint = AC8A A096 31F1 C1F7 3502  C9CA B2F2 C10C F123 27D6
+       uid                  Yuma Ohgami <yuma@ohgami.jp>
+       sub   4096R/1D5816B0 2016-06-18
+     #+END_EXAMPLE
 
 ** その他
    - 旧姓: 荒川
