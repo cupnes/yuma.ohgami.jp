@@ -23,6 +23,7 @@
 
 ** 連絡先
    - E-Mail :: yuma#ohgami.jp (#を@へ変更してください)
+   - Twitter :: [[https://twitter.com/yohgami][@yohgami]]
    - GPG Key :: 0xF12327D6 ([[file:yuma_ohgami.pub.asc.txt][public key]])
      #+BEGIN_EXAMPLE
        pub   4096R/F12327D6 2016-06-18
