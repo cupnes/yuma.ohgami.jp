@@ -6,8 +6,9 @@
 
 * 名刺代わりなページ
 ** 主な活動場所
-   | ブログ     | http://d.hatena.ne.jp/cupnes/ |
-   | 成果物など | http://funlinux.org           |
+   | 作業場所(ソースコードリポジトリ) | http://github.com/cupnes/     |
+   | ブログ                           | http://d.hatena.ne.jp/cupnes/ |
+   | 成果物など                       | http://funlinux.org           |
 
 ** 主な活動
 *** フルスクラッチのOS自作(OS5)
