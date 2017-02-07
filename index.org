@@ -14,6 +14,10 @@
 *** フルスクラッチのOS自作(OS5)
     - http://funlinux.org/os5/
 
+*** UEFIベアメタルプログラミング
+    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
+    - https://github.com/cupnes/bare_metal_uefi
+
 *** Raspberry Pi 3で64bitベアメタルプログラミング
     - http://d.hatena.ne.jp/cupnes/20160529/1464513206
     - [[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][OSC2016 HokkaidoのLT]]での発表スライド
