@@ -22,6 +22,10 @@
 *** UEFIベアメタルプログラミング
     - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
     - https://github.com/cupnes/bare_metal_uefi
+    - [[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]] での発表スライド
+      - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
+      - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
+      - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
 
 *** Raspberry Pi 3で64bitベアメタルプログラミング
     - http://d.hatena.ne.jp/cupnes/20160529/1464513206
