@@ -13,11 +13,17 @@
 ** 主な活動
 *** フルスクラッチのOS自作(OS5)
     - http://funlinux.org/os5/
-
-[[https://techbookfest.org/event/tbf02][技術書典2]]でソースコード+コメンタリー本出します！
-
-[[https://techbookfest.org/event/tbf02/circle/5747610597982208][サークル紹介ページはコチラ]]
-[[./henyapente.png]]
+    - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
+      - PDF版は以下からダウンロードできます
+	- 
+           #+ATTR_HTML: :height 240
+           [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
+    - [[https://techbookfest.org/event/cho01][超技術書典]]で再販します
+      - 配置: B-20 (1日目(4/29)のみ)
+      - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
+      - 
+         #+ATTR_HTML: :height 240
+         [[file:henyapente.png]]
 
 *** UEFIベアメタルプログラミング
     - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
