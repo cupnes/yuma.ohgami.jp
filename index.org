@@ -1,4 +1,4 @@
-#+TITLE: 大神　祐真 (Ohgami Yuma)
+#+TITLE: 大神　祐真 (Ohgami Yuma) (サークル名:へにゃぺんて)
 #+AUTHOR: 大神 祐真 (Ohgami Yuma)
 #+LANGUAGE: ja
 #+SETUPFILE: ~/git/org-html-themes/setup/theme-bigblow.setup
