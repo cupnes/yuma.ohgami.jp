@@ -10,6 +10,12 @@
    | ブログ                           | http://d.hatena.ne.jp/cupnes/ |
    | 成果物など                       | http://funlinux.org           |
 
+** 出展情報
+*** オープンソースカンファレンス2017 Hokkaido
+    - 7/15(土)にブース出展します！
+      - [[https://www.ospn.jp/osc2017-do/modules/article/article.php?articleid=1][オープンソースカンファレンス2017 Hokkaido - 展示ブース一覧（204・206会議室）]]
+    - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
+
 ** 主な活動
 *** フルスクラッチのOS自作
 **** OS6: UEFI + x86_64で実機(ThinkPad、UEFIバージョン2.3.1)対象
