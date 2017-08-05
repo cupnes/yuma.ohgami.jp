@@ -16,11 +16,14 @@
       #+ATTR_HTML: :height 240
       [[https://webcatalog.circle.ms/Circle/13309789][file:c92_circlecut.png]]
     - 新刊: フルスクラッチで作る!UEFIベアメタルプログラミング
-      - 
+      - PDF版は↓からダウンロードできます
         #+ATTR_HTML: :height 240
-        [[file:ubmp/cover.jpg]]
+        [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]]
       - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
       - そして、OSっぽいものを作る本です
+      - サンプルコードは↓で公開しています(GitHub)
+	- https://github.com/cupnes/c92_uefi_bare_metal_programming_samples
+	- [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
     - 既刊の"Ohgami's Commentary on OS5"も頒布します
     - 既刊同様、PDF版は頒布日以降にこのページで公開します
     - 目次や表紙については[[http://d.hatena.ne.jp/cupnes/20170801/1501586965][ブログ記事]]を見てみてください
