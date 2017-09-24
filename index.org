@@ -10,8 +10,32 @@
    | ブログ                           | http://d.hatena.ne.jp/cupnes/ |
    | 成果物など                       | http://funlinux.org           |
 
+** 同人誌
+   PDF版は無料で公開しています！
+
+   | [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover_x240.png]] | [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]] |
+
+*** Ohgami's Commentary on OS5
+    - QEMU(BIOS + x86 32ビット)向けフルスクラッチ自作OS(OS5)のソースコード+コメンタリー本です
+    - OS5について詳しくは↓の"主な活動"をご覧ください
+
+*** フルスクラッチで作る!UEFIベアメタルプログラミング
+    - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
+    - そして、OSっぽいものを作る本です
+    - サンプルコードは↓で公開しています(GitHub)
+      - https://github.com/cupnes/c92_uefi_bare_metal_programming_samples
+      - [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
+
 ** 出展情報
-*** TODO 8/11(金): コミックマーケット92
+*** TODO 10/22(日): 技術書典3
+    - 10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
+      #+ATTR_HTML: :height 240
+      [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
+
+*** DONE 9/9(土)-10(日): オープンソースカンファレンス2017 Tokyo/Fall
+    - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
+
+*** DONE 8/11(金): コミックマーケット92
     - 1日目(8/11(金))に"東た27b"で出展します！
       #+ATTR_HTML: :height 240
       [[https://webcatalog.circle.ms/Circle/13309789][file:c92_circlecut.png]]
@@ -32,6 +56,12 @@
     - 7/15(土)にブース出展します！
       - [[https://www.ospn.jp/osc2017-do/modules/article/article.php?articleid=1][オープンソースカンファレンス2017 Hokkaido - 展示ブース一覧（204・206会議室）]]
     - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
+
+*** DONE 4/29(土): 超技術書典
+    - [[https://techbookfest.org/event/cho01/circle/5102167744577536][4/29(土)(1日目)にブース出展しました！]]
+
+*** DONE 4/9(日): 技術書典2
+    - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][4/9(日)にブース出展しました！]]
 
 ** 主な活動
 *** フルスクラッチのOS自作
