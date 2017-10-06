@@ -6,9 +6,10 @@
 
 * 名刺代わりなページ
 ** 主な活動場所
-   | 作業場所(ソースコードリポジトリ) | http://github.com/cupnes/     |
-   | ブログ                           | http://d.hatena.ne.jp/cupnes/ |
-   | 成果物など                       | http://funlinux.org           |
+   | 作業場所(ソースコードリポジトリ) | http://github.com/cupnes/            |
+   | ブログ                           | http://d.hatena.ne.jp/cupnes/        |
+   | 成果物など                       | http://funlinux.org                  |
+   | 発表資料                         | https://www.slideshare.net/yarakawa/ |
 
 ** 同人誌
    PDF版は無料で公開しています！
