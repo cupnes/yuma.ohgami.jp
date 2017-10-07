@@ -160,6 +160,9 @@
 ** 主な活動
    - [[*自作OS][自作OS]]
    - [[*ベアメタルプログラミング][ベアメタルプログラミング]]
+   - [[*Linux][Linux]]
+   - [[*Emacs][Emacs]]
+   - [[*電子工作][電子工作]]
 
 ** 連絡先
    - E-Mail :: yuma#ohgami.jp (#を@へ変更してください)
@@ -204,11 +207,24 @@
     - poiOS
       - https://github.com/cupnes/poios
 
+*** ブログ記事
+    - [[http://d.hatena.ne.jp/cupnes/20170408/1491654807][UEFIベアメタルプログラミング - Hello UEFI!(ベアメタルプログラミングの流れについて)]]
+    - [[http://d.hatena.ne.jp/cupnes/20170503/1493787477][UEFIベアメタルプログラミング - マルチコアを制御する]]
+
 ** ARM64ビット(AArch64)ベアメタルプログラミング
    - AArch64を試したくRaspberry Pi 3を買ったら、Raspbianは32ビットだったのでベアメタルプログラミングしました
 
 *** ソースコードリポジトリ
     - http://d.hatena.ne.jp/cupnes/20160529/1464513206
+
+*** ブログ記事
+    - シリーズ記事: [[http://d.hatena.ne.jp/cupnes/20160529/1464513206][Raspberry Pi 3で64bitベアメタル(bare metal)プログラミング]]
+
+** x86 32ビットベアメタルプログラミング
+   - [[*OS5][OS5]]と呼ぶ前までに作っていたものです
+
+*** ブログ記事
+    - [[http://d.hatena.ne.jp/cupnes/20150103/1420308953][プロテクトモードへ移行し、C言語のmain()実行までのサンプルプログラム]]
 
 ** AGC(Apollo Guidance Computer)ベアメタルプログラミング
    - Apollo11号の航行制御を行っていたAGC(Apollo Guidance Computer、アポロ誘導コンピュータ)のソースコードが[[https://github.com/chrislgarry/Apollo-11][GitHubで公開されました]]
@@ -222,3 +238,113 @@
     - [[https://codejp.connpass.com/event/34473/][Code 2016 in 定山渓温泉]]にて、Virtual AGCのDSKYでGit buttonをつくりました
     - その場でシェル芸との組み合わせででっち上げただけなので、残っておらず。。
       - というより、単体のプログラムというものでもない
+** 6502(ファミコン)ベアメタルプログラミング
+   - アセンブル/逆アセンブルの確認まで
+
+*** ブログ記事
+    - [[http://d.hatena.ne.jp/cupnes/20140831/1409469778][Debian 7.6(wheezy)でファミコン(NES)プログラミング(6502アセンブル/逆アセンブル)]]
+
+* Linux
+** kernel
+*** livepatch
+    - [[http://d.hatena.ne.jp/cupnes/20160724/1469350700][out of treeでライブパッチを試す、/dev/nullへのパッチ紹介]]
+    - [[http://d.hatena.ne.jp/cupnes/20170913/1505320244][Linux 4.12: livepatch: 適用したライブパッチを無効化する機能の動作確認]]
+
+*** cgroup
+    - [[http://d.hatena.ne.jp/cupnes/20161106/1478528215][libcgroup無しで、cgroupによるプロセスへのCPU割り当て制限]]
+
+*** debug
+    - [[http://d.hatena.ne.jp/cupnes/20150906/1441494952][Kprobesの使い方]]
+    - [[http://d.hatena.ne.jp/cupnes/20150906/1441494771][ftraceの使い方]]
+    - [[http://d.hatena.ne.jp/cupnes/20150906/1441494239][dyndbg(dynamic debug)の使い方]]
+
+*** getcpu_cache (副題:pwclientの使い方)
+    - [[http://d.hatena.ne.jp/cupnes/20160224/1456325843][getcpu_cacheシステムコール追加パッチを試してみました(前編: pwclientでパッチ適用まで)]]
+    - [[http://d.hatena.ne.jp/cupnes/20160225/1456410770][getcpu_cacheシステムコール追加パッチを試してみました(後編: サンプルを動かしてみた)]]
+
+*** signal
+    - [[http://d.hatena.ne.jp/cupnes/20150504/1430712820][シグナルの使い方と実装について]]
+
+*** file system
+    - [[https://gist.github.com/cupnes/11150ad9676cd969bdd6ce497a3290ec][WalBのコンパイルエラー解消パッチ]]
+      - 4.14のmerge window中で[[https://walb-linux.github.io/][WalB]]がビルドエラーに陥っていた
+      - BIO関連の構造体が変わっていたので、変更に合わせて修正
+    - [[http://d.hatena.ne.jp/cupnes/20141222/1419265442][mkdosfsで遊ぶ]]
+
+*** init
+    - [[http://d.hatena.ne.jp/cupnes/20140920/1411202118][今さらだけど、startparについて]]
+
+*** リリース時のリーナスのメールの翻訳
+    - [[http://d.hatena.ne.jp/cupnes/20160402/1459588362][Linux 4.6-rc1がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160316/1458129107][Linux 4.5がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160307/1457349023][Linux 4.5-rc7(最後のrc)がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160229/1456752939][Linux 4.5-rc6がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160221/1456016530][Linux 4.5-rc5がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160215/1455546238][Linux 4.5-rc4がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160211/1455176120][Linux 4.5-rc3がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160201/1454335928][Linux 4.5-rc2がリリースされました]]
+    - [[http://d.hatena.ne.jp/cupnes/20160125/1453733924][Linux 4.5-rc1 のLinus発表を訳してみました]]
+
+*** ビルド・動確
+    - [[http://d.hatena.ne.jp/cupnes/20160111/1452508221][Linuxカーネル4.4をビルド・動作確認と差分について(ゴホッ、android-x86、ゴホッのx86-32 sysenter ABI誤用について)]]
+    - [[http://d.hatena.ne.jp/cupnes/20151103/1446518550][Linuxカーネル4.3をビルド・起動確認してみました]]
+    - [[http://d.hatena.ne.jp/cupnes/20150831/1441028435][Linuxカーネル4.2をビルド・インストール]]
+    - [[http://d.hatena.ne.jp/cupnes/20150622/1434978660][Linuxカーネル4.1をビルド・インストール]]
+    - [[http://d.hatena.ne.jp/cupnes/20150413/1428929039][Linux 4.0ビルド・起動確認と、ライブパッチソースの在り処]]
+    - [[http://d.hatena.ne.jp/cupnes/20140817/1408237937][CentOS 6.5でLinuxカーネル 3.16.1をビルド]]
+    - [[http://d.hatena.ne.jp/cupnes/20140817/1408236333][Debian 7.6(wheezy)でLinuxカーネル 3.16.1をビルド]]
+    - [[http://d.hatena.ne.jp/cupnes/20141224/1419438505][linux-0.01-rm-3.5をQEMU上で実行]]
+
+** シェル芸
+   - [[http://d.hatena.ne.jp/cupnes/20161215/1481755818][chrootとunshareを使い、シェル上でコマンド7つで簡易コンテナ]]
+   - [[http://d.hatena.ne.jp/cupnes/20140819/1408472244][シェルスクリプトでスケジューラ]]
+   - [[http://d.hatena.ne.jp/cupnes/20140805/1407246583][文字(列)をアスキーアートで表示する3つのコマンド]]
+   - [[http://d.hatena.ne.jp/cupnes/20140805/1407245191][ターミナル起動時に今日の予定を表示する]]
+   - [[http://d.hatena.ne.jp/cupnes/20140726/1406379170][数探しシェルスクリプト]]
+     - シェルスクリプトで再帰を使うサンプル
+   - [[http://d.hatena.ne.jp/cupnes/20140721/1405926640][あるディレクトリ以下の総ファイルサイズを取得するには]]
+     - duはブロックサイズなので、findとawkでファイルサイズの総和を得る
+   - [[http://d.hatena.ne.jp/cupnes/20140721/1405924356][千早ニュースを取得するシェルスクリプト]]
+   - [[http://d.hatena.ne.jp/cupnes/20130331/1364709523][マイク入力の録音]]
+     - arecordの使用例
+
+*** gimg: Google画像検索結果のダウンロード
+    - [[http://d.hatena.ne.jp/cupnes/20130320/1363769848][Google画像検索の1件目をダウンロードするスクリプト]]
+    - [[http://d.hatena.ne.jp/cupnes/20130320/1363782346][Google画像検索ダウンロードにサイズと保存ファイル名オプション追加]]
+    - [[http://d.hatena.ne.jp/cupnes/20130323/1364053156][画像検索結果上位N番目のダウンロードとランダムな壁紙設定]]
+    - [[http://d.hatena.ne.jp/cupnes/20130604/1370354611][Google画像検索ダウンロードに色指定機能を追加]]
+
+** debian/raspbian
+   - [[http://d.hatena.ne.jp/cupnes/20170505/1494007038][GPD WINへDebian 8(Jessie)をインストール]]
+   - [[http://d.hatena.ne.jp/cupnes/20160303/1457014339][Raspbian Jessie LiteイメージからOS構築(日本語環境・X Window System等)]]
+
+** jslinux
+   - [[http://d.hatena.ne.jp/cupnes/20130403/1364974831][jslinux向けに最新カーネル3.8.5をビルド]]
+   - [[http://d.hatena.ne.jp/cupnes/20130406/1365243767][jslinux向けに最新カーネル3.8.5をビルド(つづき)]]
+
+** その他
+   - [[http://d.hatena.ne.jp/cupnes/20150222/1424566626][USB FDDのmountで"can't read superblock"と言われるときは]]
+   - [[http://d.hatena.ne.jp/cupnes/20141227/1419702127][EV3を買いました(レコードプレイヤータイマー)]]
+   - [[http://d.hatena.ne.jp/cupnes/20140101/1388570407][フレームバッファ・コンソールで快適に生活する為のまとめ]]
+   - [[http://d.hatena.ne.jp/cupnes/20130414/1365922107][GNU Screen開発版(4.1.0)でビルド時にエラー]]
+
+* Emacs
+** ブログ記事
+   - [[http://d.hatena.ne.jp/cupnes/20141221/1419170705][Caskでパッケージ管理を始めました]]
+   - [[http://d.hatena.ne.jp/cupnes/20130429/1367224959][gamegrid.elで遊んでみよう]]
+   - [[http://d.hatena.ne.jp/cupnes/20130402/1364895193][EmacsからPDF出力]]
+   - [[http://d.hatena.ne.jp/cupnes/20130401/1364806604][Emacs 24.3のインストール]]
+     - debian上でemacsをビルド・インストールする
+
+** org-html-themes
+   - このページはEmacsのorg-modeで作成し、[[https://github.com/fniessen/org-html-themes][org-html-themes]] のテーマを使用してHTMLへエクスポートしています
+   - 元のorgファイルは以下で公開しています
+     - https://github.com/cupnes/yuma.ohgami.jp
+
+* 電子工作
+** AVRマイコン
+   - [[http://d.hatena.ne.jp/cupnes/20160228/1456646962][AVRマイコンで電卓もどきを作ってます(SC1602 LCDとキーマトリクスモジュール)]]
+   - [[http://d.hatena.ne.jp/cupnes/20160214/1455467810][Debian Jessie上にAVRマイコン開発環境構築～LEDチカチカまで]]
+
+** その他
+   - [[http://d.hatena.ne.jp/cupnes/20130227/1361975773][トランジスタで論理ゲート製作（ANDゲート）]]
