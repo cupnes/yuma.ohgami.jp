@@ -65,43 +65,8 @@
     - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][4/9(日)にブース出展しました！]]
 
 ** 主な活動
-*** フルスクラッチのOS自作
-**** OS6: UEFI + x86_64で実機(ThinkPad、UEFIバージョン2.3.1)対象
-     - https://github.com/cupnes/os6
-     - [[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]と[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLT発表しました!
-       - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
-       - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
-	 - [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
-
-**** OS5: BIOS + x86_32でQEMU対象
-     - http://funlinux.org/os5/
-     - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
-       - PDF版は以下からダウンロードできます
-	 - 
-            #+ATTR_HTML: :height 240
-            [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
-     - [[https://techbookfest.org/event/cho01][超技術書典]]で再販します
-       - 配置: B-20 (1日目(4/29)のみ)
-       - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
-       - 
-          #+ATTR_HTML: :height 240
-          [[file:henyapente.png]]
-
-*** UEFIベアメタルプログラミング
-    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
-    - https://github.com/cupnes/bare_metal_uefi
-    - [[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]] での発表スライド
-      - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
-      - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
-      - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
-
-*** Raspberry Pi 3で64bitベアメタルプログラミング
-    - http://d.hatena.ne.jp/cupnes/20160529/1464513206
-    - [[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][OSC2016 HokkaidoのLT]]での発表スライド
-      #+HTML: <iframe src="http://www.slideshare.net/slideshow/embed_code/key/pqvIIB893zwf9S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yarakawa/qemuarm64bit" title="QEMUでARM64bitベアメタルプログラミング" target="_blank">QEMUでARM64bitベアメタルプログラミング</a> </strong> from <strong><a href="http://www.slideshare.net/yarakawa" target="_blank">yarakawa</a></strong> </div>
-
-*** AGC(Apollo Guidance Computer)でベアメタルプログラミング
-    - https://github.com/cupnes/bare_metal_agc
+   - [[*自作OS][自作OS]]
+   - [[*ベアメタルプログラミング][ベアメタルプログラミング]]
 
 ** 連絡先
    - E-Mail :: yuma#ohgami.jp (#を@へ変更してください)
@@ -116,3 +81,42 @@
 
 ** その他
    - 旧姓: 荒川
+* 自作OS
+** OS6: UEFI + x86_64で実機(ThinkPad、UEFIバージョン2.3.1)対象
+   - [[*UEFIベアメタルプログラミング][UEFIベアメタルプログラミング]]の結果を踏まえ、UEFIファームウェアの機能を直接呼び出す事でOSっぽいものを作っています
+   - https://github.com/cupnes/os6
+   - [[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]と[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLT発表しました!
+     - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
+     - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
+       - [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
+
+** OS5: BIOS + x86_32でQEMU対象
+   - http://funlinux.org/os5/
+   - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
+     - PDF版は以下からダウンロードできます
+       - 
+          #+ATTR_HTML: :height 240
+          [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
+   - [[https://techbookfest.org/event/cho01][超技術書典]]で再販します
+     - 配置: B-20 (1日目(4/29)のみ)
+     - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
+     - 
+        #+ATTR_HTML: :height 240
+        [[file:henyapente.png]]
+
+* ベアメタルプログラミング
+** UEFIベアメタルプログラミング
+   - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
+   - https://github.com/cupnes/bare_metal_uefi
+   - [[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]] での発表スライド
+     - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
+     - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
+     - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
+
+** Raspberry Pi 3で64bitベアメタルプログラミング
+   - http://d.hatena.ne.jp/cupnes/20160529/1464513206
+   - [[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][OSC2016 HokkaidoのLT]]での発表スライド
+     #+HTML: <iframe src="http://www.slideshare.net/slideshow/embed_code/key/pqvIIB893zwf9S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yarakawa/qemuarm64bit" title="QEMUでARM64bitベアメタルプログラミング" target="_blank">QEMUでARM64bitベアメタルプログラミング</a> </strong> from <strong><a href="http://www.slideshare.net/yarakawa" target="_blank">yarakawa</a></strong> </div>
+
+** AGC(Apollo Guidance Computer)でベアメタルプログラミング
+   - https://github.com/cupnes/bare_metal_agc
