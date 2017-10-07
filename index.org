@@ -21,7 +21,7 @@
 
 *** Ohgami's Commentary on OS5
     - QEMU(BIOS + x86 32ビット)向けフルスクラッチ自作OS(OS5)のソースコード+コメンタリー本です
-    - OS5について詳しくは↓の"主な活動"をご覧ください
+    - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 *** フルスクラッチで作る!UEFIベアメタルプログラミング
     - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
@@ -62,10 +62,100 @@
     - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
 
 *** DONE 2017/04/29: 超技術書典
-    - [[https://techbookfest.org/event/cho01/circle/5102167744577536][4/29(土)(1日目)にブース出展しました！]]
+    - [[https://techbookfest.org/event/cho01][超技術書典]]で"Ohgami's Commentary on OS5"を再販します
+      - [[https://techbookfest.org/event/cho01/circle/5102167744577536][出展情報はこちら]]
+      - 配置: B-20 (1日目(4/29)のみ)
+      - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
+      - 
+         #+ATTR_HTML: :height 240
+         [[file:henyapente.png]]
 
 *** DONE 2017/04/09: 技術書典2
-    - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][4/9(日)にブース出展しました！]]
+    - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
+      - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][出展情報はこちら]]
+      - PDF版は以下からダウンロードできます
+	- 
+           #+ATTR_HTML: :height 240
+           [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
+
+** 発表情報
+*** DONE 2017/09/18: 第8回 自作OSもくもく会
+    - 9/18(月)の[[https://atnd.org/events/90124][第8回 自作OSもくもく会]]で発表しました！
+    - "UEFIで始めるLinux From Scratch"というタイトルで、「UEFIを使うことで簡単にLFSが始められるよ」という(事を伝えたい)内容です
+    - [[https://www.slideshare.net/yarakawa/uefilinux-from-scratch][発表スライドはこちら]]
+
+*** DONE 2017/07/22: 第13回 カーネル／VM探検隊＆懇親会@東京
+    - 7/22(土)の[[http://kernelvm13.peatix.com/][第13回 カーネル／VM探検隊＆懇親会@東京]]で飛び入りLTしました！
+    - 内容はpoiOSの紹介です
+    - [[https://youtu.be/GU3NYeWcwDI?t=5h54m27s][発表の様子はYouTubeで公開されています]]
+
+*** DONE 2017/06/18: Debian9 "Stretch" リリースパーティ in Tokyo
+    - 6/18(日)の[[https://debianjp.connpass.com/event/58439/][Debian9 "Stretch" リリースパーティ in Tokyo]]でLTしました！
+    - "GPD WINでStretchを動かす"というタイトルで、[[http://d.hatena.ne.jp/cupnes/20170505/1494007038][ブログにした]]内容の紹介です
+    - [[https://www.slideshare.net/yarakawa/gpd-winstretch][発表スライドはこちら]]
+
+*** DONE 2017/05/09: Tech Pub vol.3―技術書典ふりかえりLT大会！
+    - 5/9(火)の[[https://techpub.connpass.com/event/54961/][Tech Pub vol.3―技術書典ふりかえりLT大会！]]でLTしました！
+    - "技術書典2/超技術書典ふりかえり: 自作OS本を頒布しました"というタイトルで、技術書典2の頒布物の紹介と結果のふりかえりです
+    - [[https://www.slideshare.net/yarakawa/2-os][発表スライドはこちら]]
+
+*** DONE 2017/04/15: Open Source UN-Conference 2017 Kawagoe
+    - 4/15(土)の[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLTしました！
+    - 内容は[[*2017/04/13: 独自OS委員会第一回公聴会][独自OS委員会第一回公聴会]]と同じです
+
+*** DONE 2017/04/13: 独自OS委員会第一回公聴会
+    - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
+    - "UEFI向け自作OSの紹介"というタイトルで、[[*OS6][OS6]]の紹介です
+    - 発表資料
+      - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
+      - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
+	- [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
+
+*** DONE 2017/03/04: わんくま同盟 札幌勉強会 #1
+    - 3/4(土)の[[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]]で発表しました！
+    - "UEFIベアメタルプログラミング"というタイトルで、UEFIファームウェアを直接叩くやり方の紹介です
+    - 発表資料
+      - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
+      - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
+      - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
+
+*** DONE 昨年以前
+**** DONE 2016/12/17: CLR/H #103 ～ クリスマス オブ ザ デッド ～
+     - 12/17(土)の[[https://clrh.connpass.com/event/45552/][CLR/H #103 ～ クリスマス オブ ザ デッド ～]]でLTしました！
+     - "【シェル芸】コマンド7つで簡易コンテナ"というタイトルで、chrootとunshareを使ってシェル芸で簡易コンテナを作る内容です
+     - [[https://www.slideshare.net/yarakawa/7-70320375][発表スライドはこちら]]
+
+**** DONE 2016/12/10: Mini Debian Conference Japan 2016
+     - 12/10(土)のMini Debian Conference Japan 2016でLTしました！
+     - "フルスクラッチ自作OS(OS5)の紹介"というタイトルで、[[*OS5][OS5]]の紹介です
+     - [[https://www.slideshare.net/yarakawa/osos5][発表スライドはこちら]]
+
+**** DONE 2016/10/22: ゆるくLTをしよう勉強会@旭川
+     - 10/22(土)の[[https://connpass.com/event/40108/][ゆるくLTをしよう勉強会@旭川]]でLTしました！
+     - [[*OS5][OS5]]追加機能紹介の予定でしたが、高校生の方ばかりだったので、「どうすれば自作OSができるのか」という話へ切り替えました
+       - 「"自作OS"といっても魔法でも何でも無く、より下のレイヤーに居るICというハードウェアに対して適切にお願いをするプログラムを書くだけ」という話をしました
+       - そして時間を超過しました。。
+
+**** DONE 2016/07/02: CLR/H #clrh101 ～日本の夏、MR の夏～
+     - 7/2(土)の[[https://clrh.connpass.com/event/31379/][CLR/H #clrh101 ～日本の夏、MR の夏～]]でLTしました！
+     - "Linuxカーネルのライブパッチを試す"というタイトルで、[[http://d.hatena.ne.jp/cupnes/20160724/1469350700][ブログ記事]]の内容を紹介しました
+     - [[https://www.slideshare.net/yarakawa/linux-80554182][発表スライドはこちら]]
+       - 「その場でライブパッチを試す」というやり方だったので、大したことは書いてないです
+
+**** DONE 2016/06/18: オープンソースカンファレンス2016 Hokkaido
+     - 6/18(土)の[[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][オープンソースカンファレンス2016 Hokkaido]]でLTしました！
+     - "QEMUでARM64bitベアメタルプログラミング"というタイトルで、[[*ARM64ビット(AArch64)ベアメタルプログラミング][AArch64ベアメタルプログラミング]]の紹介です
+     - [[https://www.slideshare.net/yarakawa/qemuarm64bit][発表スライドはこちら]]
+     - [[https://youtu.be/lFwH6uQ5H7c?t=14m47s][発表の様子もYouTubeで公開されています]]
+
+**** DONE 2016/04/23: CLR/H #clrh99 ～サクラサク～
+     - 4/23(土)の[[https://clrh.connpass.com/event/28972/][CLR/H #clrh99 ～サクラサク～]]でLTしました！
+     - [[*2016/04/08: 大人の放課後シリーズ#12:『【2000行弱！】x86用自作カーネルの紹介』][大人の放課後シリーズ#12:『【2000行弱！】x86用自作カーネルの紹介』]]のスライドでOS5の概要を紹介しました
+
+**** DONE 2016/04/08: 大人の放課後シリーズ#12:『【2000行弱！】x86用自作カーネルの紹介』
+     - 4/8(金)の[[https://otona-after-5.connpass.com/event/27126/][大人の放課後シリーズ#12:『【2000行弱！】x86用自作カーネルの紹介』]]で発表しました！
+     - [[*OS5][OS5]]のカーネルの解説です
+     - [[https://www.slideshare.net/yarakawa/2000x86][発表スライドはこちら]]
 
 ** 主な活動
    - [[*自作OS][自作OS]]
@@ -85,41 +175,50 @@
 ** その他
    - 旧姓: 荒川
 * 自作OS
-** OS6: UEFI + x86_64で実機(ThinkPad、UEFIバージョン2.3.1)対象
+** OS6
    - [[*UEFIベアメタルプログラミング][UEFIベアメタルプログラミング]]の結果を踏まえ、UEFIファームウェアの機能を直接呼び出す事でOSっぽいものを作っています
-   - https://github.com/cupnes/os6
-   - [[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]と[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLT発表しました!
-     - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
-     - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
-       - [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
+   - 対象
+     - UEFI + x86_64
+     - 実機(ThinkPad、UEFIバージョン2.3.1)
 
-** OS5: BIOS + x86_32でQEMU対象
-   - http://funlinux.org/os5/
-   - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
-     - PDF版は以下からダウンロードできます
-       - 
-          #+ATTR_HTML: :height 240
-          [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
-   - [[https://techbookfest.org/event/cho01][超技術書典]]で再販します
-     - 配置: B-20 (1日目(4/29)のみ)
-     - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
-     - 
-        #+ATTR_HTML: :height 240
-        [[file:henyapente.png]]
+*** ソースコードリポジトリ
+    - https://github.com/cupnes/os6
+
+** OS5
+   - 自分がこれまでOSについて勉強してきたことの確認の意味で、フルスクラッチでOSを作ってみています
+   - 対象
+     - BIOS + x86_32
+     - QEMU
+
+*** 情報をまとめている場所
+    - http://funlinux.org/os5/
 
 * ベアメタルプログラミング
 ** UEFIベアメタルプログラミング
    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
-   - https://github.com/cupnes/bare_metal_uefi
-   - [[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]] での発表スライド
-     - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
-     - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
-     - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
+   - 勉強した結果 => [[*OS6][OS6]] => 同人誌向けに作り直し => poiOS
 
-** Raspberry Pi 3で64bitベアメタルプログラミング
-   - http://d.hatena.ne.jp/cupnes/20160529/1464513206
-   - [[https://www.ospn.jp/osc2016-do/modules/eguide/event.php?eid=2][OSC2016 HokkaidoのLT]]での発表スライド
-     #+HTML: <iframe src="http://www.slideshare.net/slideshow/embed_code/key/pqvIIB893zwf9S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yarakawa/qemuarm64bit" title="QEMUでARM64bitベアメタルプログラミング" target="_blank">QEMUでARM64bitベアメタルプログラミング</a> </strong> from <strong><a href="http://www.slideshare.net/yarakawa" target="_blank">yarakawa</a></strong> </div>
+*** ソースコードリポジトリ
+    - ベアメタルプログラミングネタ集
+      - https://github.com/cupnes/bare_metal_uefi
+    - poiOS
+      - https://github.com/cupnes/poios
 
-** AGC(Apollo Guidance Computer)でベアメタルプログラミング
-   - https://github.com/cupnes/bare_metal_agc
+** ARM64ビット(AArch64)ベアメタルプログラミング
+   - AArch64を試したくRaspberry Pi 3を買ったら、Raspbianは32ビットだったのでベアメタルプログラミングしました
+
+*** ソースコードリポジトリ
+    - http://d.hatena.ne.jp/cupnes/20160529/1464513206
+
+** AGC(Apollo Guidance Computer)ベアメタルプログラミング
+   - Apollo11号の航行制御を行っていたAGC(Apollo Guidance Computer、アポロ誘導コンピュータ)のソースコードが[[https://github.com/chrislgarry/Apollo-11][GitHubで公開されました]]
+   - そして、[[http://www.ibiblio.org/apollo/][アセンブラとエミュレータも公開されています]]
+   - そこで、AGCのエミュレータ上で動くプログラムをベアメタルプログラミングしてみました
+
+*** 作業場所
+    - https://github.com/cupnes/bare_metal_agc
+
+*** その他
+    - [[https://codejp.connpass.com/event/34473/][Code 2016 in 定山渓温泉]]にて、Virtual AGCのDSKYでGit buttonをつくりました
+    - その場でシェル芸との組み合わせででっち上げただけなので、残っておらず。。
+      - というより、単体のプログラムというものでもない
