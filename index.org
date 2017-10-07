@@ -31,15 +31,15 @@
       - [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
 
 ** 出展情報
-*** TODO 10/22(日): 技術書典3
+*** TODO 2017/10/22: 技術書典3
     - 10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
       #+ATTR_HTML: :height 240
       [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
 
-*** DONE 9/9(土)-10(日): オープンソースカンファレンス2017 Tokyo/Fall
+*** DONE 2017/09/09-10: オープンソースカンファレンス2017 Tokyo/Fall
     - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
 
-*** DONE 8/11(金): コミックマーケット92
+*** DONE 2017/08/11: コミックマーケット92
     - 1日目(8/11(金))に"東た27b"で出展します！
       #+ATTR_HTML: :height 240
       [[https://webcatalog.circle.ms/Circle/13309789][file:c92_circlecut.png]]
@@ -56,15 +56,15 @@
     - 既刊同様、PDF版は頒布日以降にこのページで公開します
     - 目次や表紙については[[http://d.hatena.ne.jp/cupnes/20170801/1501586965][ブログ記事]]を見てみてください
 
-*** DONE 7/15(土): オープンソースカンファレンス2017 Hokkaido
+*** DONE 2017/07/15: オープンソースカンファレンス2017 Hokkaido
     - 7/15(土)にブース出展します！
       - [[https://www.ospn.jp/osc2017-do/modules/article/article.php?articleid=1][オープンソースカンファレンス2017 Hokkaido - 展示ブース一覧（204・206会議室）]]
     - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
 
-*** DONE 4/29(土): 超技術書典
+*** DONE 2017/04/29: 超技術書典
     - [[https://techbookfest.org/event/cho01/circle/5102167744577536][4/29(土)(1日目)にブース出展しました！]]
 
-*** DONE 4/9(日): 技術書典2
+*** DONE 2017/04/09: 技術書典2
     - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][4/9(日)にブース出展しました！]]
 
 ** 主な活動
