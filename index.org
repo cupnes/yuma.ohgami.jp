@@ -221,11 +221,10 @@
     - シリーズ記事: [[http://d.hatena.ne.jp/cupnes/20160529/1464513206][Raspberry Pi 3で64bitベアメタル(bare metal)プログラミング]]
 
 ** x86 32ビットベアメタルプログラミング
-   - [[*OS5][OS5]]と呼ぶ前までに作っていたものです
-
-*** ブログ記事
-    - [[http://d.hatena.ne.jp/cupnes/20150103/1420308953][プロテクトモードへ移行し、C言語のmain()実行までのサンプルプログラム]]
-
+   - [[http://d.hatena.ne.jp/cupnes/20150103/1420308953][プロテクトモードへ移行し、C言語のmain()実行までのサンプルプログラム]]
+     - [[*OS5][OS5]]と呼ぶ前までに作っていたものです
+   - [[https://github.com/cupnes/as_tanka_codejp]["CodeJP"アセンブラ短歌]]
+   - [[https://github.com/cupnes/asm_zundoko][x86アセンブラでOSレスのズンドコきよし]]
 ** AGC(Apollo Guidance Computer)ベアメタルプログラミング
    - Apollo11号の航行制御を行っていたAGC(Apollo Guidance Computer、アポロ誘導コンピュータ)のソースコードが[[https://github.com/chrislgarry/Apollo-11][GitHubで公開されました]]
    - そして、[[http://www.ibiblio.org/apollo/][アセンブラとエミュレータも公開されています]]
