@@ -32,9 +32,13 @@
 
 ** 出展情報
 *** TODO 2017/10/22: 技術書典3
-    - 10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
-      #+ATTR_HTML: :height 240
-      [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
+    10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
+
+    | サークルカット(サークル紹介ページへのリンク) | 表紙                 |
+    |----------------------------------------------+----------------------|
+    | [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]            | [[file:ubmp2_cover.jpg]] |
+
+    表紙・裏表紙画像や目次などは[[http://d.hatena.ne.jp/cupnes/20171014/1507959355][ブログ記事]]をご覧ください！
 
 *** DONE 2017/09/09-10: オープンソースカンファレンス2017 Tokyo/Fall
     - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
