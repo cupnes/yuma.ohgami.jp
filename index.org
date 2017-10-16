@@ -17,6 +17,16 @@
 ** 同人誌
    PDF版は無料で公開しています！(表紙画像をクリックしてください)
 
+*** フルスクラッチで作る!UEFIベアメタルプログラミング パート2
+    [[file:UEFI-Bare-Metal-Programming-2_20171022.pdf][file:ubmp2_cover.jpg]]
+
+    - 初版発行日: 2017/10/22 ([[*2017/10/22: 技術書典3][技術書典3]])
+    - エディタとコンパイラだけでUEFIファームウェアを叩く本のパート2です
+    - TIPS本
+    - サンプルコードは↓で公開しています(GitHub)
+      - https://github.com/cupnes/uefi_bare_metal_programming_part2_samples
+      - [[file:ubmp2-sample-binaries_20171022.zip][ビルド済みバイナリはこちら]]
+
 *** フルスクラッチで作る!UEFIベアメタルプログラミング
     [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]]
 
