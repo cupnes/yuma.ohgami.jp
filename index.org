@@ -15,30 +15,34 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌
-   PDF版は無料で公開しています！
-
-   | [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover_x240.png]] | [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]] |
-
-*** Ohgami's Commentary on OS5
-    - QEMU(BIOS + x86 32ビット)向けフルスクラッチ自作OS(OS5)のソースコード+コメンタリー本です
-    - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
+   PDF版は無料で公開しています！(表紙画像をクリックしてください)
 
 *** フルスクラッチで作る!UEFIベアメタルプログラミング
+    [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]]
+
+    - 初版発行日: 2017/08/11 ([[*2017/08/11: コミックマーケット92][コミックマーケット92]])
     - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
     - そして、OSっぽいものを作る本です
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/c92_uefi_bare_metal_programming_samples
       - [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
 
+*** Ohgami's Commentary on OS5
+    [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover_x240.png]]
+
+    - 初版発行日: 2017/04/09 ([[*2017/04/09: 技術書典2][技術書典2]])
+    - QEMU(BIOS + x86 32ビット)向けフルスクラッチ自作OS(OS5)のソースコード+コメンタリー本です
+    - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
+
 ** 出展情報
 *** TODO 2017/10/22: 技術書典3
     10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
 
-    | サークルカット(サークル紹介ページへのリンク) | 表紙                 |
-    |----------------------------------------------+----------------------|
-    | [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]            | [[file:ubmp2_cover.jpg]] |
+    [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
 
     表紙・裏表紙画像や目次などは[[http://d.hatena.ne.jp/cupnes/20171014/1507959355][ブログ記事]]をご覧ください！
+
+    [[file:ubmp2_cover.jpg]]
 
 *** DONE 2017/09/09-10: オープンソースカンファレンス2017 Tokyo/Fall
     - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
