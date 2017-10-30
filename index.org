@@ -120,6 +120,7 @@
 *** DONE 2017/04/15: Open Source UN-Conference 2017 Kawagoe
     - 4/15(土)の[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLTしました！
     - 内容は[[*2017/04/13: 独自OS委員会第一回公聴会][独自OS委員会第一回公聴会]]と同じです
+    - 開催レポート: [[https://www.ospn.jp/press/20170501osunc2017-kawagoe-report.html][今回で5回目！OSunC 2017 川越！！！！ - OSPN Press]]
 
 *** DONE 2017/04/13: 独自OS委員会第一回公聴会
     - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
