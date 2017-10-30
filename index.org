@@ -45,7 +45,7 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** TODO 2017/10/22: 技術書典3
+*** DONE 2017/10/22: 技術書典3
     10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
 
     [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
