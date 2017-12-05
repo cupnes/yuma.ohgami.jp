@@ -97,6 +97,10 @@
            [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2017/12/02: Cybozu Tech Conference 2017
+    - 12/2(土)の[[https://cybozutech2017.qloba.com/][Cybozu Tech Conference 2017]]の[[https://cybozu.connpass.com/event/70374/][東京会場]]でLT発表しました！
+    - [[https://www.slideshare.net/yarakawa/cybozuosswalb][発表スライドはこちら]]
+
 *** DONE 2017/10/29: 小江戸らぐ 10月のオフな集まり(第183回)
     - 10/29(日)の[[https://koedolug.connpass.com/event/70516/][小江戸らぐ 10月のオフな集まり(第183回)]]で発表しました。。
     - [[*2017/09/18: 第8回 自作OSもくもく会][第8回 自作OSもくもく会]]と同内容だったのですが、スライド使わずやった所、ぐだぐだに。。。
