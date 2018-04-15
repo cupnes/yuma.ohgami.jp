@@ -15,21 +15,21 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌
-   発行日以降、PDF版は無料で公開しています！(表紙画像をクリックしてください)
+   PDF版は無料で公開しています！(表紙画像をクリックしてください)
 
-*** フルスクラッチで作る!x86_64自作OS
-    [[file:x86jo_cover.jpg]]
+# *** フルスクラッチで作る!x86_64自作OS
+#     [[file:x86jo_cover.jpg]]
 
-    - 初版発行日: 2018/04/22 ([[*2018/04/22: 技術書典4][技術書典4]])
-    - 「フルスクラッチで作る!」シリーズ3冊目！前著までの内容で作ったブートローダーを使い、その上で動くカーネルとアプリを作る！
-    - カーネルとしては、以下を抽象化してアプリへ提供するのみのものです
-      - フレームバッファ(画面表示)
-      - キーボードコントローラ(キーボード入力)
-      - 割り込みコントローラ(割り込み)
-      - ファイルシステム(簡易RAM FS)
-    - そして、それらを使うアプリとして「画像ビューア」を作ります
-    - ブートローダーは前著までの内容で作ったものを使うため、この本から読みはじめてもOK
-      - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
+#     - 初版発行日: 2018/04/22 ([[*2018/04/22: 技術書典4][技術書典4]])
+#     - 「フルスクラッチで作る!」シリーズ3冊目！前著までの内容で作ったブートローダーを使い、その上で動くカーネルとアプリを作る！
+#     - カーネルとしては、以下を抽象化してアプリへ提供するのみのものです
+#       - フレームバッファ(画面表示)
+#       - キーボードコントローラ(キーボード入力)
+#       - 割り込みコントローラ(割り込み)
+#       - ファイルシステム(簡易RAM FS)
+#       - そして、それらを使うアプリとして「画像ビューア」を作ります
+#     - ブートローダーは前著までの内容で作ったものを使うため、この本から読みはじめてもOK
+#       - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
 
 *** フルスクラッチで作る!UEFIベアメタルプログラミング パート2
     [[file:UEFI-Bare-Metal-Programming-2_20171022.pdf][file:ubmp2_cover.jpg]]
@@ -60,123 +60,141 @@
 
 ** 出展情報
 *** TODO 2018/04/22: 技術書典4
-    4/22(日)の[[https://techbookfest.org/event/tbf04][技術書典4]]に"け52"でブース出展します！
+    4/22(日)の[[https://techbookfest.org/event/tbf04][技術書典4]]に"け52"でブース出展します！
 
-    [[https://techbookfest.org/event/tbf04/circle/19280001][file:gijutsushoten4_circlecut.png]]
-    
-    ↓「フルスクラッチで作る!x86_64自作OS」という本を出します！
-    
-    [[file:x86jo_cover.jpg]]
-    
-    既刊も持っていきます！
+    [[https://techbookfest.org/event/tbf04/circle/19280001][file:gijutsushoten4_circlecut.png]]
 
-*** DONE 2017/12/29: コミックマーケット93
-    1日目(12/29(金))のLinuxSearchers(LSS)様の「Linux USER Manizx 2017冬号」へ、「UEFIで始める Linux From Scratch」を寄稿しました！
-    
-    当日は売り子のお手伝いもしてました！
+    ↓「フルスクラッチで作る!x86_64自作OS」という本を出します！
 
-*** DONE 2017/10/22: 技術書典3
-    10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
+    [[file:x86jo_cover.jpg]]
 
-    [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
+    - 「フルスクラッチで作る!」シリーズ3冊目！前著までの内容で作ったブートローダーを使い、その上で動くカーネルとアプリを作る！
+    - カーネルとしては、以下を抽象化してアプリへ提供するのみのものです
+      - フレームバッファ(画面表示)
+      - キーボードコントローラ(キーボード入力)
+      - 割り込みコントローラ(割り込み)
+      - ファイルシステム(簡易RAM FS)
+      - そして、それらを使うアプリとして「画像ビューア」を作ります
+    - ブートローダーは前著までの内容で作ったものを使うため、この本から読みはじめてもOK
+      - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
 
-    表紙・裏表紙画像や目次などは[[http://d.hatena.ne.jp/cupnes/20171014/1507959355][ブログ記事]]をご覧ください！
-
-    [[file:ubmp2_cover.jpg]]
-
-*** DONE 2017/09/09-10: オープンソースカンファレンス2017 Tokyo/Fall
-    - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
-
-*** DONE 2017/08/11: コミックマーケット92
-    - 1日目(8/11(金))に"東た27b"で出展します！
-      #+ATTR_HTML: :height 240
-      [[https://webcatalog.circle.ms/Circle/13309789][file:c92_circlecut.png]]
-    - 新刊: フルスクラッチで作る!UEFIベアメタルプログラミング
-      - PDF版は↓からダウンロードできます
-        #+ATTR_HTML: :height 240
-        [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]]
-      - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
-      - そして、OSっぽいものを作る本です
-      - サンプルコードは↓で公開しています(GitHub)
-	- https://github.com/cupnes/c92_uefi_bare_metal_programming_samples
-	- [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
-    - 既刊の"Ohgami's Commentary on OS5"も頒布します
-    - 既刊同様、PDF版は頒布日以降にこのページで公開します
-    - 目次や表紙については[[http://d.hatena.ne.jp/cupnes/20170801/1501586965][ブログ記事]]を見てみてください
-
-*** DONE 2017/07/15: オープンソースカンファレンス2017 Hokkaido
-    - 7/15(土)にブース出展します！
-      - [[https://www.ospn.jp/osc2017-do/modules/article/article.php?articleid=1][オープンソースカンファレンス2017 Hokkaido - 展示ブース一覧（204・206会議室）]]
-    - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
-
-*** DONE 2017/04/29: 超技術書典
-    - [[https://techbookfest.org/event/cho01][超技術書典]]で"Ohgami's Commentary on OS5"を再販します
-      - [[https://techbookfest.org/event/cho01/circle/5102167744577536][出展情報はこちら]]
-      - 配置: B-20 (1日目(4/29)のみ)
-      - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
-      - 
-         #+ATTR_HTML: :height 240
-         [[file:henyapente.png]]
-
-*** DONE 2017/04/09: 技術書典2
-    - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
-      - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][出展情報はこちら]]
-      - PDF版は以下からダウンロードできます
-	- 
-           #+ATTR_HTML: :height 240
-           [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
-
-** 発表情報
-*** DONE 2017/12/02: Cybozu Tech Conference 2017
-    - 12/2(土)の[[https://cybozutech2017.qloba.com/][Cybozu Tech Conference 2017]]の[[https://cybozu.connpass.com/event/70374/][東京会場]]でLT発表しました！
-    - [[https://www.slideshare.net/yarakawa/cybozuosswalb][発表スライドはこちら]]
-
-*** DONE 2017/10/29: 小江戸らぐ 10月のオフな集まり(第183回)
-    - 10/29(日)の[[https://koedolug.connpass.com/event/70516/][小江戸らぐ 10月のオフな集まり(第183回)]]で発表しました。。
-    - [[*2017/09/18: 第8回 自作OSもくもく会][第8回 自作OSもくもく会]]と同内容だったのですが、スライド使わずやった所、ぐだぐだに。。。
-
-*** DONE 2017/09/18: 第8回 自作OSもくもく会
-    - 9/18(月)の[[https://atnd.org/events/90124][第8回 自作OSもくもく会]]で発表しました！
-    - "UEFIで始めるLinux From Scratch"というタイトルで、「UEFIを使うことで簡単にLFSが始められるよ」という(事を伝えたい)内容です
-    - [[https://www.slideshare.net/yarakawa/uefilinux-from-scratch][発表スライドはこちら]]
-
-*** DONE 2017/07/22: 第13回 カーネル／VM探検隊＆懇親会@東京
-    - 7/22(土)の[[http://kernelvm13.peatix.com/][第13回 カーネル／VM探検隊＆懇親会@東京]]で飛び入りLTしました！
-    - 内容はpoiOSの紹介です
-    - [[https://youtu.be/GU3NYeWcwDI?t=5h54m27s][発表の様子はYouTubeで公開されています]]
-
-*** DONE 2017/06/18: Debian9 "Stretch" リリースパーティ in Tokyo
-    - 6/18(日)の[[https://debianjp.connpass.com/event/58439/][Debian9 "Stretch" リリースパーティ in Tokyo]]でLTしました！
-    - "GPD WINでStretchを動かす"というタイトルで、[[http://d.hatena.ne.jp/cupnes/20170505/1494007038][ブログにした]]内容の紹介です
-    - [[https://www.slideshare.net/yarakawa/gpd-winstretch][発表スライドはこちら]]
-
-*** DONE 2017/05/09: Tech Pub vol.3―技術書典ふりかえりLT大会！
-    - 5/9(火)の[[https://techpub.connpass.com/event/54961/][Tech Pub vol.3―技術書典ふりかえりLT大会！]]でLTしました！
-    - "技術書典2/超技術書典ふりかえり: 自作OS本を頒布しました"というタイトルで、技術書典2の頒布物の紹介と結果のふりかえりです
-    - [[https://www.slideshare.net/yarakawa/2-os][発表スライドはこちら]]
-
-*** DONE 2017/04/15: Open Source UN-Conference 2017 Kawagoe
-    - 4/15(土)の[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLTしました！
-    - 内容は[[*2017/04/13: 独自OS委員会第一回公聴会][独自OS委員会第一回公聴会]]と同じです
-    - 開催レポート: [[https://www.ospn.jp/press/20170501osunc2017-kawagoe-report.html][今回で5回目！OSunC 2017 川越！！！！ - OSPN Press]]
-
-*** DONE 2017/04/13: 独自OS委員会第一回公聴会
-    - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
-    - "UEFI向け自作OSの紹介"というタイトルで、[[*OS6][OS6]]の紹介です
-    - 発表資料
-      - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
-      - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
-	- [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
-
-*** DONE 2017/03/04: わんくま同盟 札幌勉強会 #1
-    - 3/4(土)の[[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]]で発表しました！
-    - "UEFIベアメタルプログラミング"というタイトルで、UEFIファームウェアを直接叩くやり方の紹介です
-    - 発表資料
-      - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
-      - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
-      - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
+    既刊も持っていきます！
 
 *** DONE 昨年以前
+**** DONE 2017/12/29: コミックマーケット93
+     1日目(12/29(金))のLinuxSearchers(LSS)様の「Linux USER Manizx 2017冬号」へ、「UEFIで始める Linux From Scratch」を寄稿しました！
+
+     当日は売り子のお手伝いもしてました！
+
+**** DONE 2017/10/22: 技術書典3
+     10/22(日)の[[https://techbookfest.org/event/tbf03][技術書典3]]に"か13"でブース出展します！
+
+     [[https://techbookfest.org/event/tbf03/circle/5667766619078656][file:gijutsushoten3_circlecut.png]]
+
+     表紙・裏表紙画像や目次などは[[http://d.hatena.ne.jp/cupnes/20171014/1507959355][ブログ記事]]をご覧ください！
+
+     [[file:ubmp2_cover.jpg]]
+
+**** DONE 2017/09/09-10: オープンソースカンファレンス2017 Tokyo/Fall
+     - [[https://www.ospn.jp/osc2017-fall/modules/article/article.php?articleid=1][9/9(土)-10(日)にブース出展しました！]]
+
+**** DONE 2017/08/11: コミックマーケット92
+     - 1日目(8/11(金))に"東た27b"で出展します！
+       #+ATTR_HTML: :height 240
+       [[https://webcatalog.circle.ms/Circle/13309789][file:c92_circlecut.png]]
+     - 新刊: フルスクラッチで作る!UEFIベアメタルプログラミング
+       - PDF版は↓からダウンロードできます
+         #+ATTR_HTML: :height 240
+         [[file:ubmp/UEFI-Bare-Metal-Programming_20170811.pdf][file:ubmp/cover.jpg]]
+       - ライブラリやツールチェイン等を使わず、エディタとコンパイラだけのフルスクラッチでUEFIファームウェアを叩く方法を紹介します
+       - そして、OSっぽいものを作る本です
+       - サンプルコードは↓で公開しています(GitHub)
+	 - https://github.com/cupnes/c92_uefi_bare_metal_programming_samples
+	 - [[file:ubmp/ubmp-sample-binaries_20170811.zip][ビルド済みバイナリはこちら]]
+     - 既刊の"Ohgami's Commentary on OS5"も頒布します
+     - 既刊同様、PDF版は頒布日以降にこのページで公開します
+     - 目次や表紙については[[http://d.hatena.ne.jp/cupnes/20170801/1501586965][ブログ記事]]を見てみてください
+
+**** DONE 2017/07/15: オープンソースカンファレンス2017 Hokkaido
+     - 7/15(土)にブース出展します！
+       - [[https://www.ospn.jp/osc2017-do/modules/article/article.php?articleid=1][オープンソースカンファレンス2017 Hokkaido - 展示ブース一覧（204・206会議室）]]
+     - "Ohgami's Commentary on OS5"の残りも持っていきますので、興味があればお立ち寄りください！
+
+**** DONE 2017/04/29: 超技術書典
+     - [[https://techbookfest.org/event/cho01][超技術書典]]で"Ohgami's Commentary on OS5"を再販します
+       - [[https://techbookfest.org/event/cho01/circle/5102167744577536][出展情報はこちら]]
+       - 配置: B-20 (1日目(4/29)のみ)
+       - [[https://techbookfest.org/event/cho01/circle/5102167744577536][サークル詳細ページ]]
+       - 
+          #+ATTR_HTML: :height 240
+          [[file:henyapente.png]]
+
+**** DONE 2017/04/09: 技術書典2
+     - [[https://techbookfest.org/event/tbf02][技術書典2]]で同人誌を出しました！
+       - [[https://techbookfest.org/event/tbf02/circle/5747610597982208][出展情報はこちら]]
+       - PDF版は以下からダウンロードできます
+	 - 
+            #+ATTR_HTML: :height 240
+            [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
+
+** 発表情報
+*** DONE 2018/04/14: Open Source UN-Conference 2018 Kawagoe
+    - 4/14(土)の[[https://koedolug.connpass.com/event/77065/][Open Source UN-Conference 2018 Kawagoe]]でLT発表しました！
+    - 当日は、自作OS上で発表していましたが、PDF版は[[https://www.slideshare.net/yarakawa/x8664os][コチラ]]にアップロードしています
+
+*** DONE 2018/02/24: オープンソースカンファレンス2018 Tokyo/Spring
+    - 2/24(土)の[[https://www.ospn.jp/osc2018-spring/][オープンソースカンファレンス2018 Tokyo/Spring]]でLT発表しました！
+
+*** DONE 昨年以前
+**** DONE 2017/12/02: Cybozu Tech Conference 2017
+     - 12/2(土)の[[https://cybozutech2017.qloba.com/][Cybozu Tech Conference 2017]]の[[https://cybozu.connpass.com/event/70374/][東京会場]]でLT発表しました！
+     - [[https://www.slideshare.net/yarakawa/cybozuosswalb][発表スライドはこちら]]
+
+**** DONE 2017/10/29: 小江戸らぐ 10月のオフな集まり(第183回)
+     - 10/29(日)の[[https://koedolug.connpass.com/event/70516/][小江戸らぐ 10月のオフな集まり(第183回)]]で発表しました。。
+     - [[*2017/09/18: 第8回 自作OSもくもく会][第8回 自作OSもくもく会]]と同内容だったのですが、スライド使わずやった所、ぐだぐだに。。。
+
+**** DONE 2017/09/18: 第8回 自作OSもくもく会
+     - 9/18(月)の[[https://atnd.org/events/90124][第8回 自作OSもくもく会]]で発表しました！
+     - "UEFIで始めるLinux From Scratch"というタイトルで、「UEFIを使うことで簡単にLFSが始められるよ」という(事を伝えたい)内容です
+     - [[https://www.slideshare.net/yarakawa/uefilinux-from-scratch][発表スライドはこちら]]
+
+**** DONE 2017/07/22: 第13回 カーネル／VM探検隊＆懇親会@東京
+     - 7/22(土)の[[http://kernelvm13.peatix.com/][第13回 カーネル／VM探検隊＆懇親会@東京]]で飛び入りLTしました！
+     - 内容はpoiOSの紹介です
+     - [[https://youtu.be/GU3NYeWcwDI?t=5h54m27s][発表の様子はYouTubeで公開されています]]
+
+**** DONE 2017/06/18: Debian9 "Stretch" リリースパーティ in Tokyo
+     - 6/18(日)の[[https://debianjp.connpass.com/event/58439/][Debian9 "Stretch" リリースパーティ in Tokyo]]でLTしました！
+     - "GPD WINでStretchを動かす"というタイトルで、[[http://d.hatena.ne.jp/cupnes/20170505/1494007038][ブログにした]]内容の紹介です
+     - [[https://www.slideshare.net/yarakawa/gpd-winstretch][発表スライドはこちら]]
+
+**** DONE 2017/05/09: Tech Pub vol.3―技術書典ふりかえりLT大会！
+     - 5/9(火)の[[https://techpub.connpass.com/event/54961/][Tech Pub vol.3―技術書典ふりかえりLT大会！]]でLTしました！
+     - "技術書典2/超技術書典ふりかえり: 自作OS本を頒布しました"というタイトルで、技術書典2の頒布物の紹介と結果のふりかえりです
+     - [[https://www.slideshare.net/yarakawa/2-os][発表スライドはこちら]]
+
+**** DONE 2017/04/15: Open Source UN-Conference 2017 Kawagoe
+     - 4/15(土)の[[https://koedolug.connpass.com/event/47569/][Open Source UN-Conference 2017 Kawagoe]]でLTしました！
+     - 内容は[[*2017/04/13: 独自OS委員会第一回公聴会][独自OS委員会第一回公聴会]]と同じです
+     - 開催レポート: [[https://www.ospn.jp/press/20170501osunc2017-kawagoe-report.html][今回で5回目！OSunC 2017 川越！！！！ - OSPN Press]]
+
+**** DONE 2017/04/13: 独自OS委員会第一回公聴会
+     - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
+     - "UEFI向け自作OSの紹介"というタイトルで、[[*OS6][OS6]]の紹介です
+     - 発表資料
+       - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
+       - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
+	 - [[file:demo_20170413.zip]](366KB)、[[file:demo_20170413.zip.md5][MD5]]
+
+**** DONE 2017/03/04: わんくま同盟 札幌勉強会 #1
+     - 3/4(土)の[[http://www.wankuma.com/seminar/20170304sapporo01/][わんくま同盟 札幌勉強会 #1]]で発表しました！
+     - "UEFIベアメタルプログラミング"というタイトルで、UEFIファームウェアを直接叩くやり方の紹介です
+     - 発表資料
+       - [[http://www.slideshare.net/yarakawa/uefi-73048227][SlideShare]]
+       - [[file:wankuma_20170304_sapporo_ohgami.zip][pptx版(zip圧縮済で1.5MB)]]
+       - [[file:wankuma.zip][efiバイナリ版(zip圧縮済で11MB)]] , [[file:wankuma.zip.md5][MD5]]
+
 **** DONE 2016/12/17: CLR/H #103 ～ クリスマス オブ ザ デッド ～
      - 12/17(土)の[[https://clrh.connpass.com/event/45552/][CLR/H #103 ～ クリスマス オブ ザ デッド ～]]でLTしました！
      - "【シェル芸】コマンド7つで簡易コンテナ"というタイトルで、chrootとunshareを使ってシェル芸で簡易コンテナを作る内容です
