@@ -32,9 +32,9 @@
 #       - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
 #     - サンプルコードは↓で公開しています(GitHub)
 #       - https://github.com/cupnes/x86_64_jisaku_os_samples
-#       - [[https://github.com/cupnes/x86_64_jisaku_os_samples/releases][ビルド済みバイナリはこちら]]
-#       - 前著までの内容で作成したブートローダー(poiboot)の[[file:poiboot_20180422.zip][ビルド済みバイナリはこちら]]
-#         - poibootのソースコードは上記のサンプルコードリポジトリに含めています
+#       - [[https://github.com/cupnes/x86_64_jisaku_os_samples/releases][ビルド済みバイナリはこちら]]
+#       - 前著までの内容で作成したブートローダー(poiboot)の[[file:poiboot_20180422.zip][ビルド済みバイナリはこちら]]
+#       - poibootのソースコードは上記のサンプルコードリポジトリに含めています
 
 *** フルスクラッチで作る!UEFIベアメタルプログラミング パート2
     [[file:UEFI-Bare-Metal-Programming-2_20171022.pdf][file:ubmp2_cover.jpg]]
