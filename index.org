@@ -73,6 +73,10 @@
       - [[https://www.ospn.jp/osc2018-do/modules/article/article.php?articleid=1][展示ブース一覧ページ]]
     - 技術書典4でも頒布した新刊・既刊同人誌の頒布や、自作OSのデモを行う予定です
 
+*** TODO 2018/07/02: 技術同人誌再販Night★
+    - 7/2(月)の[[https://techbook-and-ethanol.connpass.com/event/88620/][技術同人誌再販Night★]]でブース出展します！
+    - 技術書典4の新刊の再販や、過去のすべての同人誌も持っていきます！
+
 *** DONE 2018/04/22: 技術書典4
     4/22(日)の[[https://techbookfest.org/event/tbf04][技術書典4]]に"け52"でブース出展します！
 
