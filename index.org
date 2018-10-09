@@ -17,6 +17,21 @@
 ** 同人誌
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** 自作OS自動化のPoCとしての遺伝的MBR
+    [[file:Identeki-MBR.pdf][file:gembr_cover.jpg]]
+    → *[[file:Identeki-MBR.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Identeki-MBR][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2018/10/08 (技術書典5)
+    - 自作OSの自動化のPoC(概念実証)として、BIOSが最初に実行する512バイトのMBR生成をKVMによるMBRテストツールと遺伝的アルゴリズムのシステムを作って自動化します
+    - サンプルコードは↓で公開しています(GitHub)
+      - 第1章 /dev/kvmを直接叩いて理解する
+	- https://github.com/cupnes/bare_metal_kvm
+      - 第2章 既存のコードを改造してMBRテスターを作る
+	- [[https://github.com/slowcoder/kvmulate][参考にさせていただいたKVMサンプル(kvmulate)]]
+	- [[https://gist.github.com/cupnes/97131c5719f6c1399b089815961c7e79][パッチ]]
+      - 第3章 遺伝的MBRを実現する
+	- https://github.com/cupnes/ge_mbr
+
 *** フルスクラッチで作る!x86_64自作OS パート2 ACPIでHPET取得してスケジューラを作る本
     [[file:x86_64-Jisaku-OS-2.pdf][file:x86jo2_cover.jpg]]
     → *[[file:x86_64-Jisaku-OS-2.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-2][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
