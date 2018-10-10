@@ -21,7 +21,7 @@
     [[file:Identeki-MBR.pdf][file:gembr_cover.jpg]]
     → *[[file:Identeki-MBR.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Identeki-MBR][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
 
-    - 初版発行日: 2018/10/08 (技術書典5)
+    - 初版発行日: 2018/10/08 ([[*2018/10/08: %E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85][技術書典5]])
     - 自作OSの自動化のPoC(概念実証)として、BIOSが最初に実行する512バイトのMBR生成をKVMによるMBRテストツールと遺伝的アルゴリズムのシステムを作って自動化します
     - サンプルコードは↓で公開しています(GitHub)
       - 第1章 /dev/kvmを直接叩いて理解する
@@ -96,8 +96,30 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** TODO 2018/08/10: コミックマーケット94
-    - コミックマーケット94(TODO: リンク追加)の1日目(8/10(金))に"西め42b"で出展します！
+*** DONE 2018/10/08: 技術書典5
+    10/8(月・祝)の[[https://techbookfest.org/event/tbf05][技術書典5]]に"お07"でブース出展しました！
+
+    [[https://techbookfest.org/event/tbf05/circle/43060002][file:gijutsushoten5_circlecut.png]]
+
+    ↓「自作OS自動化のPoCとしての遺伝的MBR」という本を出しました！
+
+    [[file:gembr_cover.jpg]]
+
+    内容や目次、表紙等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181002/1538498195][ブログ記事]]をご覧ください！
+
+    既刊も持っていきます！
+
+*** DONE 2018/09/09: 第10回 秋コレ
+    - 9/9(日)に秋葉原UDXで開催された[[https://akicolle.com/event/akicolle/10/][第10回 秋コレ]]に「配置:れ16」でブース出展しました!
+    - コミックマーケット94の新刊や、それ以前の既刊の再販です
+
+*** DONE 2018/09/03: 技術同人誌再販Night★#2
+    - 9/3(月) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/92807/][技術同人誌再販Night★#2]]でブース出展とLTしました!
+    - コミックマーケット94の新刊や、それ以前の既刊の再販です
+    - LTは「フルスクラッチ自作OSのススメ」というタイトルで当サークルでの「フルスクラッチ」の定義と、ネタとして「日本語シェル」の紹介を行いました
+
+*** DONE 2018/08/10: コミックマーケット94
+    - コミックマーケット94の1日目(8/10(金))に"西め42b"で出展します！
       [[https://webcatalog-free.circle.ms/Circle/13916298][file:c94_circlecut.png]]
     - 新刊は「フルスクラッチで作る!x86_64自作OS パート2 ACPIでHPET取得してスケジューラを作る本」(過去最長タイトル)です！
       [[file:x86jo2_cover.jpg]]
