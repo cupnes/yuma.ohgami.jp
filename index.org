@@ -96,6 +96,11 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+*** TODO 2018/10/27-28: オープンソースカンファレンス2018 Tokyo/Fall
+    - [[https://www.ospn.jp/osc2018-fall/][オープンソースカンファレンス2018 Tokyo/Fall]]の[[https://www.ospn.jp/osc2018-fall/modules/article/article.php?articleid=1][両日共にブース出展します]]！
+    - 技術書典5の新刊である「遺伝的MBR」本や、これまでの既刊である「フルスクラッチで作る!」シリーズも全て持っていきます！
+    - 当日はPCでデモなどもできますので、興味があればぜひお立ち寄りください！
+
 *** DONE 2018/10/08: 技術書典5
     10/8(月・祝)の[[https://techbookfest.org/event/tbf05][技術書典5]]に"お07"でブース出展しました！
 
