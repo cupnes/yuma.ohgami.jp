@@ -96,7 +96,24 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** TODO 2018/10/27-28: オープンソースカンファレンス2018 Tokyo/Fall
+*** TODO 2018/12/30: コミックマーケット95
+    - コミックマーケット95の2日目(12/30(日))に"東テ55a"で出展します！
+      [[https://webcatalog-free.circle.ms/Circle/14207203][file:c95_circlecut.png]]
+    - 新刊は「システムコールの薄い本」で、サークルカットでは「x86_64自作OS パート4」と書いていますが、前回の技術書典でこのシリーズとは別の本を出したので、今回でパート3です
+      [[file:x86jo3_cover.jpg]]
+      - システムコールの仕組みを紹介し、実装してみる本です
+      - システムコールにより、カーネルとアプリをバイナリレベルで分離できるようになります
+	- これでいよいよ「OS」と呼んでも良い感じになってきました
+      - アプリからアプリを呼ぶ仕組みも、「フォアグラウンド」・「バックグラウンド」のそれぞれで実装します
+      - 目次等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181210/1544368577][ブログ記事]]をご覧ください！
+    - なお、これまでの既刊もすべて持っていきます！
+    - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
+
+*** DONE 2018/12/04: 技術同人誌再販Night★#3
+    - 12/4(火) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/104668/][技術同人誌再販Night★#3]]でブース出展しました!
+    - 技術書典5の新刊や、それ以前の既刊の再販です
+
+*** DONE 2018/10/27-28: オープンソースカンファレンス2018 Tokyo/Fall
     - [[https://www.ospn.jp/osc2018-fall/][オープンソースカンファレンス2018 Tokyo/Fall]]の[[https://www.ospn.jp/osc2018-fall/modules/article/article.php?articleid=1][両日共にブース出展します]]！
     - 技術書典5の新刊である「遺伝的MBR」本や、これまでの既刊である「フルスクラッチで作る!」シリーズも全て持っていきます！
     - 当日はPCでデモなどもできますので、興味があればぜひお立ち寄りください！
@@ -225,6 +242,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2018/12/08: 小江戸らぐ 12月のオフな集まり(第197回)
+    - 12/8(土)の[[https://koedolug.connpass.com/event/111548/][小江戸らぐ 12月のオフな集まり(第197回)]]で発表しました
+    - 内容は次の冬コミ(C95)の新刊紹介です
+    - [[https://figure.uchinokomato.me/maker][ぷちのこメーカー]]というサービスでマスコットキャラクター作ってみたこととかも話しました
+
 *** DONE 2018/04/14: Open Source UN-Conference 2018 Kawagoe
     - 4/14(土)の[[https://koedolug.connpass.com/event/77065/][Open Source UN-Conference 2018 Kawagoe]]でLT発表しました！
     - 当日は、自作OS上で発表していましたが、PDF版は[[https://www.slideshare.net/yarakawa/x8664os][コチラ]]にアップロードしています
