@@ -17,6 +17,18 @@
 ** 同人誌
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** フルスクラッチで作る!x86_64自作OS パート3 システムコールの薄い本
+    [[file:x86_64-Jisaku-OS-3.pdf][file:x86jo3_cover.jpg]]
+    → *[[file:x86_64-Jisaku-OS-3.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-3][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2018/12/30 ([[*2018/12/30: %E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%8895][コミックマーケット95]])
+    - 「フルスクラッチで作る!」シリーズ5冊目！システムコール！
+    - システムコールの仕組みを説明し、実装する本です
+    - システムコールを実装することで、カーネル・アプリをバイナリレベルで分離します
+    - また、アプリからアプリを呼び出す仕組みとして「バックグラウンド」・「フォアグラウンド」それぞれの仕組みも実装します
+    - サンプルコードは↓で公開しています(GitHub)
+      - [[https://github.com/cupnes/x86_64_jisaku_os_3_samples]]
+
 *** 自作OS自動化のPoCとしての遺伝的MBR
     [[file:Identeki-MBR.pdf][file:gembr_cover.jpg]]
     → *[[file:Identeki-MBR.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Identeki-MBR][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
@@ -96,7 +108,7 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** TODO 2018/12/30: コミックマーケット95
+*** DONE 2018/12/30: コミックマーケット95
     - コミックマーケット95の2日目(12/30(日))に"東テ55a"で出展します！
       [[https://webcatalog-free.circle.ms/Circle/14207203][file:c95_circlecut.png]]
     - 新刊は「システムコールの薄い本」で、サークルカットでは「x86_64自作OS パート4」と書いていますが、前回の技術書典でこのシリーズとは別の本を出したので、今回でパート3です
