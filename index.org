@@ -108,95 +108,104 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** DONE 2018/12/30: コミックマーケット95
-    - コミックマーケット95の2日目(12/30(日))に"東テ55a"で出展します！
-      [[https://webcatalog-free.circle.ms/Circle/14207203][file:c95_circlecut.png]]
-    - 新刊は「システムコールの薄い本」で、サークルカットでは「x86_64自作OS パート4」と書いていますが、前回の技術書典でこのシリーズとは別の本を出したので、今回でパート3です
-      [[file:x86jo3_cover.jpg]]
-      - システムコールの仕組みを紹介し、実装してみる本です
-      - システムコールにより、カーネルとアプリをバイナリレベルで分離できるようになります
-	- これでいよいよ「OS」と呼んでも良い感じになってきました
-      - アプリからアプリを呼ぶ仕組みも、「フォアグラウンド」・「バックグラウンド」のそれぞれで実装します
-      - 目次等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181210/1544368577][ブログ記事]]をご覧ください！
-    - なお、これまでの既刊もすべて持っていきます！
-    - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
+*** DONE 2019/02/24: 第11回 秋コレ
+    - 2/24(日)に秋葉原UDXで開催された[[https://akicolle.com/event/akicolle/11/][第11回 秋コレ]]に「配置:し05」でブース出展しました！
+    - 前日に出展していた[[*2019/02/23: %E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B92019 Tokyo/Spring][OSC2019Tokyo/Spring]]と同様の出展内容で同人誌頒布と自作OSデモを行っていました
 
-*** DONE 2018/12/04: 技術同人誌再販Night★#3
-    - 12/4(火) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/104668/][技術同人誌再販Night★#3]]でブース出展しました!
-    - 技術書典5の新刊や、それ以前の既刊の再販です
-
-*** DONE 2018/10/27-28: オープンソースカンファレンス2018 Tokyo/Fall
-    - [[https://www.ospn.jp/osc2018-fall/][オープンソースカンファレンス2018 Tokyo/Fall]]の[[https://www.ospn.jp/osc2018-fall/modules/article/article.php?articleid=1][両日共にブース出展します]]！
-    - 技術書典5の新刊である「遺伝的MBR」本や、これまでの既刊である「フルスクラッチで作る!」シリーズも全て持っていきます！
-    - 当日はPCでデモなどもできますので、興味があればぜひお立ち寄りください！
-
-*** DONE 2018/10/08: 技術書典5
-    10/8(月・祝)の[[https://techbookfest.org/event/tbf05][技術書典5]]に"お07"でブース出展しました！
-
-    [[https://techbookfest.org/event/tbf05/circle/43060002][file:gijutsushoten5_circlecut.png]]
-
-    ↓「自作OS自動化のPoCとしての遺伝的MBR」という本を出しました！
-
-    [[file:gembr_cover.jpg]]
-
-    内容や目次、表紙等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181002/1538498195][ブログ記事]]をご覧ください！
-
-    既刊も持っていきます！
-
-*** DONE 2018/09/09: 第10回 秋コレ
-    - 9/9(日)に秋葉原UDXで開催された[[https://akicolle.com/event/akicolle/10/][第10回 秋コレ]]に「配置:れ16」でブース出展しました!
-    - コミックマーケット94の新刊や、それ以前の既刊の再販です
-
-*** DONE 2018/09/03: 技術同人誌再販Night★#2
-    - 9/3(月) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/92807/][技術同人誌再販Night★#2]]でブース出展とLTしました!
-    - コミックマーケット94の新刊や、それ以前の既刊の再販です
-    - LTは「フルスクラッチ自作OSのススメ」というタイトルで当サークルでの「フルスクラッチ」の定義と、ネタとして「日本語シェル」の紹介を行いました
-
-*** DONE 2018/08/10: コミックマーケット94
-    - コミックマーケット94の1日目(8/10(金))に"西め42b"で出展します！
-      [[https://webcatalog-free.circle.ms/Circle/13916298][file:c94_circlecut.png]]
-    - 新刊は「フルスクラッチで作る!x86_64自作OS パート2 ACPIでHPET取得してスケジューラを作る本」(過去最長タイトル)です！
-      [[file:x86jo2_cover.jpg]]
-      - 2005年頃からPCのチップセットに組み込まれるようになった比較的新しいタイマーであるHPETの使い方を紹介します
-      - HPETのハードウェア情報を取得するためにACPIの使い方から紹介します
-      - HPETで割り込み駆動の周期タイマーの設定方法まで紹介し、それを使ってスケジューラを実装します！
-      - 目次等、詳しくは[[http://d.hatena.ne.jp/cupnes/20180802/1533222426][ブログ記事]]をご覧ください！
-    - なお、これまでの既刊もすべて持っていきます！
-    - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
-
-*** DONE 2018/07/07: オープンソースカンファレンス2018 Hokkaido
-    - 7/7(土)の[[https://www.ospn.jp/osc2018-do/][オープンソースカンファレンス2018 Hokkaido]]でブース出展します！
-      - [[https://www.ospn.jp/osc2018-do/modules/article/article.php?articleid=1][展示ブース一覧ページ]]
-    - 技術書典4でも頒布した新刊・既刊同人誌の頒布や、自作OSのデモを行う予定です
-
-*** DONE 2018/07/02: 技術同人誌再販Night★
-    - 7/2(月)の[[https://techbook-and-ethanol.connpass.com/event/88620/][技術同人誌再販Night★]]でブース出展します！
-    - 技術書典4の新刊の再販や、過去のすべての同人誌も持っていきます！
-
-*** DONE 2018/04/22: 技術書典4
-    4/22(日)の[[https://techbookfest.org/event/tbf04][技術書典4]]に"け52"でブース出展します！
-
-    [[https://techbookfest.org/event/tbf04/circle/19280001][file:gijutsushoten4_circlecut.png]]
-
-    ↓「フルスクラッチで作る!x86_64自作OS」という本を出します！
-
-    [[file:x86jo_cover.jpg]]
-
-    - 「フルスクラッチで作る!」シリーズ3冊目！前著までの内容で作ったブートローダーを使い、その上で動くカーネルとアプリを作る！
-    - カーネルとしては、以下を抽象化してアプリへ提供するのみのものです
-      - フレームバッファ(画面表示)
-      - キーボードコントローラ(キーボード入力)
-      - 割り込みコントローラ(割り込み)
-      - ファイルシステム(簡易RAM FS)
-      - そして、それらを使うアプリとして「画像ビューア」を作ります
-    - ブートローダーは前著までの内容で作ったものを使うため、この本から読みはじめてもOK
-      - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
-
-    目次などは[[http://d.hatena.ne.jp/cupnes/20180418/1524056977][ブログ記事]]をご覧ください！
-
-    既刊も持っていきます！
+*** DONE 2019/02/23: オープンソースカンファレンス2019 Tokyo/Spring
+    - [[https://www.ospn.jp/osc2019-spring/][オープンソースカンファレンス2019 Tokyo/Spring]]の[[https://www.ospn.jp/osc2019-spring/modules/article/article.php?articleid=1][2日目(土)にブース出展しました]]！
+    - 昨年末の冬コミ(C95)の新刊である「システムコール本」と、それ以前の自作OSシリーズ本も全て持って行き頒布していました
+    - また、デモではおそらく世界初?のゲーム風インタフェースのGUI紹介や、NIC動作確認アプリの紹介を行っていました
 
 *** DONE 昨年以前
+**** DONE 2018/12/30: コミックマーケット95
+     - コミックマーケット95の2日目(12/30(日))に"東テ55a"で出展します！
+       [[https://webcatalog-free.circle.ms/Circle/14207203][file:c95_circlecut.png]]
+     - 新刊は「システムコールの薄い本」で、サークルカットでは「x86_64自作OS パート4」と書いていますが、前回の技術書典でこのシリーズとは別の本を出したので、今回でパート3です
+       [[file:x86jo3_cover.jpg]]
+       - システムコールの仕組みを紹介し、実装してみる本です
+       - システムコールにより、カーネルとアプリをバイナリレベルで分離できるようになります
+	 - これでいよいよ「OS」と呼んでも良い感じになってきました
+       - アプリからアプリを呼ぶ仕組みも、「フォアグラウンド」・「バックグラウンド」のそれぞれで実装します
+       - 目次等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181210/1544368577][ブログ記事]]をご覧ください！
+     - なお、これまでの既刊もすべて持っていきます！
+     - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
+
+**** DONE 2018/12/04: 技術同人誌再販Night★#3
+     - 12/4(火) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/104668/][技術同人誌再販Night★#3]]でブース出展しました!
+     - 技術書典5の新刊や、それ以前の既刊の再販です
+
+**** DONE 2018/10/27-28: オープンソースカンファレンス2018 Tokyo/Fall
+     - [[https://www.ospn.jp/osc2018-fall/][オープンソースカンファレンス2018 Tokyo/Fall]]の[[https://www.ospn.jp/osc2018-fall/modules/article/article.php?articleid=1][両日共にブース出展します]]！
+     - 技術書典5の新刊である「遺伝的MBR」本や、これまでの既刊である「フルスクラッチで作る!」シリーズも全て持っていきます！
+     - 当日はPCでデモなどもできますので、興味があればぜひお立ち寄りください！
+
+**** DONE 2018/10/08: 技術書典5
+     10/8(月・祝)の[[https://techbookfest.org/event/tbf05][技術書典5]]に"お07"でブース出展しました！
+
+     [[https://techbookfest.org/event/tbf05/circle/43060002][file:gijutsushoten5_circlecut.png]]
+
+     ↓「自作OS自動化のPoCとしての遺伝的MBR」という本を出しました！
+
+     [[file:gembr_cover.jpg]]
+
+     内容や目次、表紙等、詳しくは[[http://d.hatena.ne.jp/cupnes/20181002/1538498195][ブログ記事]]をご覧ください！
+
+     既刊も持っていきます！
+
+**** DONE 2018/09/09: 第10回 秋コレ
+     - 9/9(日)に秋葉原UDXで開催された[[https://akicolle.com/event/akicolle/10/][第10回 秋コレ]]に「配置:れ16」でブース出展しました!
+     - コミックマーケット94の新刊や、それ以前の既刊の再販です
+
+**** DONE 2018/09/03: 技術同人誌再販Night★#2
+     - 9/3(月) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/92807/][技術同人誌再販Night★#2]]でブース出展とLTしました!
+     - コミックマーケット94の新刊や、それ以前の既刊の再販です
+     - LTは「フルスクラッチ自作OSのススメ」というタイトルで当サークルでの「フルスクラッチ」の定義と、ネタとして「日本語シェル」の紹介を行いました
+
+**** DONE 2018/08/10: コミックマーケット94
+     - コミックマーケット94の1日目(8/10(金))に"西め42b"で出展します！
+       [[https://webcatalog-free.circle.ms/Circle/13916298][file:c94_circlecut.png]]
+     - 新刊は「フルスクラッチで作る!x86_64自作OS パート2 ACPIでHPET取得してスケジューラを作る本」(過去最長タイトル)です！
+       [[file:x86jo2_cover.jpg]]
+       - 2005年頃からPCのチップセットに組み込まれるようになった比較的新しいタイマーであるHPETの使い方を紹介します
+       - HPETのハードウェア情報を取得するためにACPIの使い方から紹介します
+       - HPETで割り込み駆動の周期タイマーの設定方法まで紹介し、それを使ってスケジューラを実装します！
+       - 目次等、詳しくは[[http://d.hatena.ne.jp/cupnes/20180802/1533222426][ブログ記事]]をご覧ください！
+     - なお、これまでの既刊もすべて持っていきます！
+     - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
+
+**** DONE 2018/07/07: オープンソースカンファレンス2018 Hokkaido
+     - 7/7(土)の[[https://www.ospn.jp/osc2018-do/][オープンソースカンファレンス2018 Hokkaido]]でブース出展します！
+       - [[https://www.ospn.jp/osc2018-do/modules/article/article.php?articleid=1][展示ブース一覧ページ]]
+     - 技術書典4でも頒布した新刊・既刊同人誌の頒布や、自作OSのデモを行う予定です
+
+**** DONE 2018/07/02: 技術同人誌再販Night★
+     - 7/2(月)の[[https://techbook-and-ethanol.connpass.com/event/88620/][技術同人誌再販Night★]]でブース出展します！
+     - 技術書典4の新刊の再販や、過去のすべての同人誌も持っていきます！
+
+**** DONE 2018/04/22: 技術書典4
+     4/22(日)の[[https://techbookfest.org/event/tbf04][技術書典4]]に"け52"でブース出展します！
+
+     [[https://techbookfest.org/event/tbf04/circle/19280001][file:gijutsushoten4_circlecut.png]]
+
+     ↓「フルスクラッチで作る!x86_64自作OS」という本を出します！
+
+     [[file:x86jo_cover.jpg]]
+
+     - 「フルスクラッチで作る!」シリーズ3冊目！前著までの内容で作ったブートローダーを使い、その上で動くカーネルとアプリを作る！
+     - カーネルとしては、以下を抽象化してアプリへ提供するのみのものです
+       - フレームバッファ(画面表示)
+       - キーボードコントローラ(キーボード入力)
+       - 割り込みコントローラ(割り込み)
+       - ファイルシステム(簡易RAM FS)
+       - そして、それらを使うアプリとして「画像ビューア」を作ります
+     - ブートローダーは前著までの内容で作ったものを使うため、この本から読みはじめてもOK
+       - 一部ブートローダーを作る上では説明が不足していた箇所は付録に書いています
+
+     目次などは[[http://d.hatena.ne.jp/cupnes/20180418/1524056977][ブログ記事]]をご覧ください！
+
+     既刊も持っていきます！
+
 **** DONE 2017/12/29: コミックマーケット93
      1日目(12/29(金))のLinuxSearchers(LSS)様の「Linux USER Manizx 2017冬号」へ、「UEFIで始める Linux From Scratch」を寄稿しました！
 
@@ -254,19 +263,19 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
-*** DONE 2018/12/08: 小江戸らぐ 12月のオフな集まり(第197回)
-    - 12/8(土)の[[https://koedolug.connpass.com/event/111548/][小江戸らぐ 12月のオフな集まり(第197回)]]で発表しました
-    - 内容は次の冬コミ(C95)の新刊紹介です
-    - [[https://figure.uchinokomato.me/maker][ぷちのこメーカー]]というサービスでマスコットキャラクター作ってみたこととかも話しました
-
-*** DONE 2018/04/14: Open Source UN-Conference 2018 Kawagoe
-    - 4/14(土)の[[https://koedolug.connpass.com/event/77065/][Open Source UN-Conference 2018 Kawagoe]]でLT発表しました！
-    - 当日は、自作OS上で発表していましたが、PDF版は[[https://www.slideshare.net/yarakawa/x8664os][コチラ]]にアップロードしています
-
-*** DONE 2018/02/24: オープンソースカンファレンス2018 Tokyo/Spring
-    - 2/24(土)の[[https://www.ospn.jp/osc2018-spring/][オープンソースカンファレンス2018 Tokyo/Spring]]でLT発表しました！
-
 *** DONE 昨年以前
+**** DONE 2018/12/08: 小江戸らぐ 12月のオフな集まり(第197回)
+     - 12/8(土)の[[https://koedolug.connpass.com/event/111548/][小江戸らぐ 12月のオフな集まり(第197回)]]で発表しました
+     - 内容は次の冬コミ(C95)の新刊紹介です
+     - [[https://figure.uchinokomato.me/maker][ぷちのこメーカー]]というサービスでマスコットキャラクター作ってみたこととかも話しました
+
+**** DONE 2018/04/14: Open Source UN-Conference 2018 Kawagoe
+     - 4/14(土)の[[https://koedolug.connpass.com/event/77065/][Open Source UN-Conference 2018 Kawagoe]]でLT発表しました！
+     - 当日は、自作OS上で発表していましたが、PDF版は[[https://www.slideshare.net/yarakawa/x8664os][コチラ]]にアップロードしています
+
+**** DONE 2018/02/24: オープンソースカンファレンス2018 Tokyo/Spring
+     - 2/24(土)の[[https://www.ospn.jp/osc2018-spring/][オープンソースカンファレンス2018 Tokyo/Spring]]でLT発表しました！
+
 **** DONE 2017/12/02: Cybozu Tech Conference 2017
      - 12/2(土)の[[https://cybozutech2017.qloba.com/][Cybozu Tech Conference 2017]]の[[https://cybozu.connpass.com/event/70374/][東京会場]]でLT発表しました！
      - [[https://www.slideshare.net/yarakawa/cybozuosswalb][発表スライドはこちら]]
