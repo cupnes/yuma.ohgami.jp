@@ -109,7 +109,10 @@
 
 ** 出展情報
 *** TODO 2019/04/14: 技術書典6
-    - 4/14(日)に **
+    - 4/14(日)の[[https://techbookfest.org/event/tbf06][技術書典6]]に「配置:う37」でブース出展します！
+      [[https://techbookfest.org/event/tbf06/circle/63920002][file:gijutsushoten6_circlecut.png]]
+    - 新刊は自作NICドライバ本「ぼくらのイーサネットフレーム!」です
+    - 詳しくは[[https://yohgami.hateblo.jp/entry/2019/03/31/162119][ブログ記事]]をご覧下さい
 
 *** DONE 2019/02/24: 第11回 秋コレ
     - 2/24(日)に秋葉原UDXで開催された[[https://akicolle.com/event/akicolle/11/][第11回 秋コレ]]に「配置:し05」でブース出展しました！
