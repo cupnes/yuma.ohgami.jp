@@ -15,7 +15,20 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌
+   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな専売]]！
+
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
+
+*** フルスクラッチで作る!x86_64自作OS パート4 ぼくらのイーサネットフレーム!
+    [[file:x86_64-Jisaku-OS-4.pdf][file:x86jo4_cover.png]]
+    → *[[file:x86_64-Jisaku-OS-4.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-4][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2019/04/14 ([[*2019/04/14: %E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B86][技術書典6]])
+    - ついにNICドライバを実装！
+    - PCIからのデバイス情報取得から始め、NICドライバをフルスクラッチ
+    - そして、受信はNICが受信したバイナリ列の取得、送信は用意した任意のバイナリ列(オレオレイーサネットフレーム)のNICからの送出、を行います！
+    - サンプルコードは↓で公開しています(GitHub)
+      - [[https://github.com/cupnes/x86_64_jisaku_os_4_samples]]
 
 *** フルスクラッチで作る!x86_64自作OS パート3 システムコールの薄い本
     [[file:x86_64-Jisaku-OS-3.pdf][file:x86jo3_cover.jpg]]
@@ -108,7 +121,7 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
-*** TODO 2019/04/14: 技術書典6
+*** DONE 2019/04/14: 技術書典6
     - 4/14(日)の[[https://techbookfest.org/event/tbf06][技術書典6]]に「配置:う37」でブース出展します！
       [[https://techbookfest.org/event/tbf06/circle/63920002][file:gijutsushoten6_circlecut.png]]
     - 新刊は自作NICドライバ本「ぼくらのイーサネットフレーム!」です
