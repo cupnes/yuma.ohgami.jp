@@ -121,6 +121,18 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+*** TODO 2019/08/12: コミックマーケット96
+    - コミックマーケット96の4日目(8/12(月))に"南リ18b"で出展します！
+      [[https://webcatalog-free.circle.ms/Circle/14502575][file:c96_circlecut.png]]
+    - 新刊は、自作OS向けにてっとりばやくマルチコアを実現する本です
+      [[file:x86jo5_cover.jpg]]
+      - UEFIの機能を活用することでアセンブラを書くこと無く2つ目以降のコアを立ち上げ、カーネルへジャンプ
+      - カーネルでは、今度はUEFI無しでマルチコアを制御
+      - システムコールにより指定したコアで任意のアプリを実行できるようにします
+      - 目次など詳しくは[[https://yohgami.hateblo.jp/entry/2019/08/03/213150][ブログ記事]]をご覧ください！
+    - なお、これまでの既刊もすべて持っていきます！
+    - 既刊同様、PDF/HTML版は頒布日以降、このページで公開します
+
 *** DONE 2019/06/01: オープンソースカンファレンス2019 Hokkaido
     - 6/1(土)の[[https://www.ospn.jp/osc2019-do/][オープンソースカンファレンス2019 Hokkaido]]でブース出展しました！
       - [[https://www.ospn.jp/osc2019-do/modules/article/article.php?articleid=1][展示ブース一覧ページ]]
