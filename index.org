@@ -121,6 +121,11 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+*** DONE 2019/06/01: オープンソースカンファレンス2019 Hokkaido
+    - 6/1(土)の[[https://www.ospn.jp/osc2019-do/][オープンソースカンファレンス2019 Hokkaido]]でブース出展しました！
+      - [[https://www.ospn.jp/osc2019-do/modules/article/article.php?articleid=1][展示ブース一覧ページ]]
+    - 技術書典6の新刊やこれまでの期間の頒布、簡易プロトコルスタックのデモ等を行いました
+
 *** DONE 2019/05/13: 技術同人誌再販Night★#4
     - 5/13(月) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/127154/][技術同人誌再販Night★#4]]でブース出展しました!
     - 技術書典6の新刊や、それ以前の既刊の再販です
