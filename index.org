@@ -29,6 +29,8 @@
     - システムコールにより指定したコアで任意のアプリを実行できるようにします
     - サンプルコードは↓で公開しています(GitHub)
       - [[https://github.com/cupnes/x86_64_jisaku_os_5_samples]]
+    - 追加・訂正情報
+      - 本文ではUEFIのEFI_MP_SERVICES_PROTOCOLのWhoAmI()が返す値とLocal APIC IDが、同一のプロセッサコアに対しては同じ値であることを想定していますが、ベンダーの実装によっては異なることもあるそうです。(特にハイパースレッディングを無効にして使用している場合)
 
 *** フルスクラッチで作る!x86_64自作OS パート4 ぼくらのイーサネットフレーム!
     [[file:x86_64-Jisaku-OS-4.pdf][file:x86jo4_cover.png]]
