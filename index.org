@@ -19,6 +19,17 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** フルスクラッチで作る!x86_64自作OS パート5 てっとりばやくマルチコア
+    [[file:x86_64-Jisaku-OS-5.pdf][file:x86jo5_cover.jpg]]
+    → *[[file:x86_64-Jisaku-OS-5.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-5][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2019/08/12 ([[*2019/08/12: %E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%8896][コミックマーケット96]])
+    - UEFIの機能を活用することでアセンブラを書くこと無く2つ目以降のコアを立ち上げ、カーネルへジャンプ
+    - カーネルでは、今度はUEFI無しでマルチコアを制御
+    - システムコールにより指定したコアで任意のアプリを実行できるようにします
+    - サンプルコードは↓で公開しています(GitHub)
+      - [[https://github.com/cupnes/x86_64_jisaku_os_5_samples]]
+
 *** フルスクラッチで作る!x86_64自作OS パート4 ぼくらのイーサネットフレーム!
     [[file:x86_64-Jisaku-OS-4.pdf][file:x86jo4_cover.png]]
     → *[[file:x86_64-Jisaku-OS-4.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-4][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
