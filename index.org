@@ -134,6 +134,12 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+*** STARTED 2019/09/22: 技術書典7
+    - 9/22(日)の[[https://techbookfest.org/event/tbf07][技術書典7]]に「配置:く50D」でブース出展します！
+      [[https://techbookfest.org/event/tbf07/circle/5688901205229568][file:gijutsushoten7_circlecut.png]]
+    - 新刊は機械語を手書きする本「作って分かる！x86_64機械語入門」です
+    - 詳しくは[[https://yohgami.hateblo.jp/entry/2019/09/12/222305][ブログ記事]]をご覧下さい
+
 *** DONE 2019/08/12: コミックマーケット96
     - コミックマーケット96の4日目(8/12(月))に"南リ18b"で出展します！
       [[https://webcatalog-free.circle.ms/Circle/14502575][file:c96_circlecut.png]]
