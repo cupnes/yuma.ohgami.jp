@@ -19,6 +19,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** 作って分かる！x86_64機械語入門
+    [[file:Introduction-to-x86_64-Machine-Language.pdf][file:ix86ml_cover.png]]
+    → *[[file:Introduction-to-x86_64-Machine-Language.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Introduction-to-x86_64-Machine-Language][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2019/09/22 ([[*2019/09/22: %E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B87][技術書典7]])
+    - 一つずつ構文を理解していくことで機械語を書いてみる本です
+    - QEMU上でOSレスで動く実行バイナリを書き、CPUを直接制御します
+    - サンプルコードは↓で公開しています(GitHub)
+      - [[https://github.com/cupnes/introduction_to_x86_64_machine_language_samples]]
+
 *** フルスクラッチで作る!x86_64自作OS パート5 てっとりばやくマルチコア
     [[file:x86_64-Jisaku-OS-5.pdf][file:x86jo5_cover.jpg]]
     → *[[file:x86_64-Jisaku-OS-5.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:x86_64-Jisaku-OS-5][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
