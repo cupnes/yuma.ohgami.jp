@@ -144,6 +144,10 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+*** DONE 2019/11/01: 技術同人誌再販Night★#5
+    - 11/1(金) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/149245/][技術同人誌再販Night★#5]]でブース出展しました!
+    - 技術書典7の新刊や、それ以前の既刊の再販です
+
 *** DONE 2019/09/22: 技術書典7
     - 9/22(日)の[[https://techbookfest.org/event/tbf07][技術書典7]]に「配置:く50D」でブース出展します！
       [[https://techbookfest.org/event/tbf07/circle/5688901205229568][file:gijutsushoten7_circlecut.png]]
