@@ -19,6 +19,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** バイナリ生物学入門
+    [[file:Intelligent-Life-in-the-Binary.pdf][file:ilb_cover.png]]
+    → *[[file:Intelligent-Life-in-the-Binary.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Intelligent-Life-in-the-Binary][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2019/12/31 (コミックマーケット97)
+    - 実行バイナリを生物のように扱う処理系の構造と振る舞いのモデルと、実際に単細胞生物として扱うPoCの実験結果を紹介するネタ本です
+    - 実験では、バイナリが生物の振る舞いをしていることと、例として、ウイルス感染した個体が発生しても系としては正常に戻る様子を紹介しています！
+    - サンプルコードは↓で公開しています(GitHub)
+      - [[https://github.com/cupnes/intelligent_life_in_the_binary_samples]]
+
 *** 作って分かる！x86_64機械語入門
     [[file:Introduction-to-x86_64-Machine-Language.pdf][file:ix86ml_cover.png]]
     → *[[file:Introduction-to-x86_64-Machine-Language.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Introduction-to-x86_64-Machine-Language][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
