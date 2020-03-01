@@ -19,6 +19,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
 
+*** バイナリ生成環境「daisy-tools」実験報告
+    [[file:Daisy-Tools_Laboratory_Report.pdf][file:dtlr_cover.png]]
+    → *[[file:Daisy-Tools_Laboratory_Report.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Daisy-Tools_Laboratory_Report][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2020/02/29 (技術書典8[中止])
+    - 進化的にバイナリを生成する「daisy-tools」というシステムの本です。
+    - コンセプトや進化の仕組み、簡単なELFバイナリを生成する実験結果を紹介します！
+    - サンプルコードは↓で公開しています(GitHub)
+      - https://github.com/cupnes/daisy-tools
+
 *** バイナリ生物学入門
     [[file:Intelligent-Life-in-the-Binary.pdf][file:ilb_cover.png]]
     → *[[file:Intelligent-Life-in-the-Binary.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Intelligent-Life-in-the-Binary][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
