@@ -15,9 +15,19 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌
-   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな専売]]！
+   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKERにて販売中]]！
+
+*** シェルスクリプトでゲームボーイプログラミング入門
+    [[file:GB-Programming-with-Shell-Script.pdf][file:gbps_cover.png]]
+    → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　EPUB版(BOOK☆WALKER)(まだ)*
+
+    - 初版発行日: 2020/05/10 (コミックマーケット98[中止])
+    - シェルスクリプトだけでゲームボーイのROMファイルを作る本です。
+    - 筆者が開発し使用しているシェルスクリプト製のアセンブラなどを使用して、ステップバイステップで、タイルによる背景描画、キー入力、画面スクロールまでを行います。
+    - サンプルコードは↓で公開しています(GitHub)
+      - https://github.com/cupnes/gb_programming_with_shell-script_samples
 
 *** バイナリ生成環境「daisy-tools」実験報告
     [[file:Daisy-Tools_Laboratory_Report.pdf][file:dtlr_cover.png]]
