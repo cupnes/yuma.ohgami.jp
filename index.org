@@ -15,15 +15,16 @@
     | 成果物など | http://funlinux.org             |
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
-** 同人誌
+** 同人誌/同人作品
    紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
-*** TODO ゲームボーイOS「AMADO」v0.03
-    file:amado_v0.03_version.png
+*** ゲームボーイOS「AMADO」v0.03
+    [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
+    → *[[https://yohgami.booth.pm/items/2636771][ROM版(BOOTH)(上記画像リンク先と同じ)]]　　　　　[[https://www.beep-shop.com/ec/products/detail/BD-2--6965][カートリッジ版(BEEP)]]　　　　　[[https://ecs.toranoana.jp/tora/ec/item/040030876245/][カートリッジ版(とらのあな)]]*
 
-    - 初版発行予定日: 2020/12/30 (エアコミケ2)
+    - 初版発行日: 2020/12/30 (エアコミケ2)
     - ゲームボーイ上で動作するOS「AMADO」の2度目のバージョンアップです
     - v0.03で、ハード(カートリッジ)の助けもあり、RAM側に読み書き可能なファイルシステムを搭載しました
     - バイナリエディタを追加したので、RAMのファイルシステム上のファイルを編集できます
