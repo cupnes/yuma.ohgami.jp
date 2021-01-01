@@ -470,7 +470,7 @@
 
 **** DONE 2017/04/13: 独自OS委員会第一回公聴会
      - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
-     - "UEFI向け自作OSの紹介"というタイトルで、[[*%E3%82%86%E3%81%82OS(%E6%97%A7%EF%BC%9AOS6)][OS6]]の紹介です
+     - "UEFI向け自作OSの紹介"というタイトルで、[[*poiOS(%E6%97%A7%EF%BC%9AOS6)][OS6]]の紹介です
      - 発表資料
        - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
        - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
@@ -561,26 +561,30 @@
    | *まとめページ*         | http://funlinux.org/os5/                                |
    | *このOSに関する同人誌* | 「[[*Ohgami's Commentary on OS5][Ohgami's Commentary on OS5]]」                          |
 
-** poiOS
+** poiOS(旧：OS6)
    - UEFIファームウェア側の機能を直接呼び出すだけでOSっぽいものが作れるのでは？という発想で作ったOS
 
    | *対応システム*         | QEMU, PC                                                          |
    | *対応CPU*              | x86(64ビット)                                                     |
    | *対応System BIOS*      | UEFI                                                              |
    | *ソフトウェア構成*     | file:UEFI-Bare-Metal-Programming/intro.html#poios_arch            |
-   | *最初のコミット*       | [[https://github.com/cupnes/c92_uefi_bare_metal_programming_samples/commit/6e67555][2017-07-13]]                                                        |
-   | *ソースコード*         | 同人誌のサンプルとして作成：                                      |
+   | *最初のコミット*       | [[https://github.com/cupnes/bare_metal_uefi/commit/6fd7c23f9eee622bcfee0829521c85d3d9de628c][2017-01-01]]                                                        |
+   | *ソースコード*         | UEFIベアメタルプログラミングを色々試す：                          |
+   |                        | https://github.com/cupnes/bare_metal_uefi                         |
+   |                        | OS6としてリポジトリ化：                                           |
+   |                        | https://github.com/cupnes/os6                                     |
+   |                        | 同人誌のサンプルとして作成：                                      |
    |                        | https://github.com/cupnes/c92_uefi_bare_metal_programming_samples |
    |                        | 後に単体でリポジトリ化：                                          |
    |                        | https://github.com/cupnes/poios                                   |
    | *このOSに関する同人誌* | 「[[*%E3%83%95%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%A7%E4%BD%9C%E3%82%8B!UEFI%E3%83%99%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0][フルスクラッチで作る!UEFIベアメタルプログラミング]]」             |
 
-** ゆあOS(旧：OS6)
+** ゆあOS
 ** AMADO
 * ベアメタルプログラミング
 ** UEFIベアメタルプログラミング
    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
-   - 勉強した結果 => [[*%E3%82%86%E3%81%82OS(%E6%97%A7%EF%BC%9AOS6)][OS6]] => 同人誌向けに作り直し => poiOS
+   - 勉強した結果 => [[*poiOS(%E6%97%A7%EF%BC%9AOS6)][OS6]] => 同人誌向けに作り直し => poiOS
 
 *** ソースコードリポジトリ
     - ベアメタルプログラミングネタ集
