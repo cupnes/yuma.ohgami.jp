@@ -562,6 +562,19 @@
    | *このOSに関する同人誌* | 「[[*Ohgami's Commentary on OS5][Ohgami's Commentary on OS5]]」                          |
 
 ** poiOS
+   - UEFIファームウェア側の機能を直接呼び出すだけでOSっぽいものが作れるのでは？という発想で作ったOS
+
+   | *対応システム*         | QEMU, PC                                                          |
+   | *対応CPU*              | x86(64ビット)                                                     |
+   | *対応System BIOS*      | UEFI                                                              |
+   | *ソフトウェア構成*     | file:UEFI-Bare-Metal-Programming/intro.html#poios_arch            |
+   | *最初のコミット*       | [[https://github.com/cupnes/c92_uefi_bare_metal_programming_samples/commit/6e67555][2017-07-13]]                                                        |
+   | *ソースコード*         | 同人誌のサンプルとして作成：                                      |
+   |                        | https://github.com/cupnes/c92_uefi_bare_metal_programming_samples |
+   |                        | 後に単体でリポジトリ化：                                          |
+   |                        | https://github.com/cupnes/poios                                   |
+   | *このOSに関する同人誌* | 「[[*%E3%83%95%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%A7%E4%BD%9C%E3%82%8B!UEFI%E3%83%99%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0][フルスクラッチで作る!UEFIベアメタルプログラミング]]」             |
+
 ** ゆあOS(旧：OS6)
 ** AMADO
 * ベアメタルプログラミング
