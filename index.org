@@ -470,7 +470,7 @@
 
 **** DONE 2017/04/13: 独自OS委員会第一回公聴会
      - 4/13(木)の[[https://fpgastartup.connpass.com/event/53052/][独自OS委員会第一回公聴会]]でLTしました！
-     - "UEFI向け自作OSの紹介"というタイトルで、[[*OS6][OS6]]の紹介です
+     - "UEFI向け自作OSの紹介"というタイトルで、[[*%E3%82%86%E3%81%82OS(%E6%97%A7%EF%BC%9AOS6)][OS6]]の紹介です
      - 発表資料
        - [[https://www.slideshare.net/yarakawa/uefios][SlideShare]]
        - 実行バイナリ版(ストレージへ配置して起動することで発表時点のOS6を試すことができます)
@@ -542,28 +542,32 @@
 ** その他
    - 旧姓: 荒川
 * 自作OS
-** OS6
-   - [[*UEFIベアメタルプログラミング][UEFIベアメタルプログラミング]]の結果を踏まえ、UEFIファームウェアの機能を直接呼び出す事でOSっぽいものを作っています
-   - 対象
-     - UEFI + x86_64
-     - 実機(ThinkPad、UEFIバージョン2.3.1)
-
-*** ソースコードリポジトリ
-    - https://github.com/cupnes/os6
-
 ** OS5
-   - 自分がこれまでOSについて勉強してきたことの確認の意味で、フルスクラッチでOSを作ってみています
-   - 対象
-     - BIOS + x86_32
-     - QEMU
+   - 完全フルスクラッチで独自に作成した初めてのOS
+   - ブートローダー・カーネル・アプリ全て含めて3000行程度のコンパクトなOS
+   - 主にカーネルの勉強として作っていて、カーネルが持つべき機能一つ一つを最低限の機能でシンプルに実装している
+   - アプリはカーネルのテスト用程度のもので、簡単なCUIのみ
 
-*** 情報をまとめている場所
-    - http://funlinux.org/os5/
+   | *対応システム*         | QEMU                                                    |
+   | *対応CPU*              | x86(32ビット)                                           |
+   | *対応System BIOS*      | レガシーBIOS                                            |
+   | *ソフトウェア構成*     | file:Ohgamis-Commentary-on-OS5/aboutos5.html#os5_struct |
+   |                        | ※ ブート後、カーネル・アプリ動作中の状態               |
+   | *最初のコミット*       | [[https://github.com/cupnes/minimum_real_mode/commit/9a3811682d2393a94f5b3e38d1a475d7a1c38512][2015-02-08]]                                              |
+   | *ソースコード*         | リアルモードで動作する最低限のプログラム：              |
+   |                        | https://github.com/cupnes/minimum_real_mode             |
+   |                        | ↑から分岐：                                            |
+   |                        | https://github.com/cupnes/os5/                          |
+   | *まとめページ*         | http://funlinux.org/os5/                                |
+   | *このOSに関する同人誌* | 「[[*Ohgami's Commentary on OS5][Ohgami's Commentary on OS5]]」                          |
 
+** poiOS
+** ゆあOS(旧：OS6)
+** AMADO
 * ベアメタルプログラミング
 ** UEFIベアメタルプログラミング
    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
-   - 勉強した結果 => [[*OS6][OS6]] => 同人誌向けに作り直し => poiOS
+   - 勉強した結果 => [[*%E3%82%86%E3%81%82OS(%E6%97%A7%EF%BC%9AOS6)][OS6]] => 同人誌向けに作り直し => poiOS
 
 *** ソースコードリポジトリ
     - ベアメタルプログラミングネタ集
