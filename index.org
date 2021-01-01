@@ -63,6 +63,17 @@
     - 自作OS等を行っている低レイヤー技術サークル「へにゃぺんて」の最近の活動を紹介するゲームボーイ形式の技術同人誌です！(5画面分のテキストと画像2枚、BGM無し)
     - これ自体がゲームボーイ用自作OS「AMADO」のデモになっています！おまけでライフゲームも同梱！
 
+*** ゲームボーイOS「AMADO(仮)」v0.01
+    [[https://yohgami.booth.pm/items/2042170][file:amado_v0.01_version.png]]
+    → *[[https://yohgami.booth.pm/items/2042170][ROM版(BOOTH)(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2020/05/10 (コミックマーケット98[中止])
+    - ゲームボーイ上で動くOSです
+    - 読み取り専用ですが、ファイルシステムを備えていて、同梱のテキストと画像を閲覧できます
+    - AMADOへ任意のテキストや画像を組み込むツールも同梱しています
+    - ソースコード
+      - https://github.com/cupnes/sh_gbos/
+
 *** シェルスクリプトでゲームボーイプログラミング入門
     [[file:GB-Programming-with-Shell-Script.pdf][file:gbps_cover.png]]
     → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-1--3048][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030828703/][とらのあな]])*
