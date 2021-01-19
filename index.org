@@ -31,6 +31,8 @@
       - 実行バイナリをバイナリエディタで編集することで、マシン語プログラミング可能！
     - ソースコード
       - https://github.com/cupnes/sh_gbos/releases/tag/amado_v0.03
+    - 追加情報
+      - [[https://akiba-pc.watch.impress.co.jp/docs/news/news/1299045.html][AKIBA PC Hotline!様でご紹介いただきました！]]
 
 *** ゲームボーイOS「AMADO」で8ビットマシン語入門
     [[https://techbookfest.org/product/5190959769845760][file:i8bmla_cover.png]]
