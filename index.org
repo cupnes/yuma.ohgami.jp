@@ -16,7 +16,7 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌/同人作品
-   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP様]]にて販売中！
+   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
@@ -36,7 +36,7 @@
 
 *** ゲームボーイOS「AMADO」で8ビットマシン語入門
     [[https://techbookfest.org/product/5190959769845760][file:i8bmla_cover.png]]
-    → *[[https://techbookfest.org/product/5190959769845760][紙/PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+    → *[[https://techbookfest.org/product/5190959769845760][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-3--7866][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030888063/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=806410][メロンブックス]])*
 
     - 初版発行日: 2020/12/26 (技術書典10)
     - ゲームボーイ上で動作するOS「AMADO」を使って、ゲームボーイ上でマシン語プログラミングを体験する本です
