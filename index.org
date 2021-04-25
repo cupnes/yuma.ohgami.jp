@@ -22,7 +22,7 @@
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
-    → *[[https://yohgami.booth.pm/items/2636771][ROM版(BOOTH)(上記画像リンク先と同じ)]]　　　　　カートリッジ版([[https://www.beep-shop.com/ec/products/detail/BD-2--6965][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030876245/][とらのあな]])*
+    → *[[https://yohgami.booth.pm/items/2636771][ROM版(BOOTH)(上記画像リンク先と同じ)]]　　　　　カートリッジ版([[https://www.beep-shop.com/ec/products/detail/BD-2--6965][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030876245/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=824942][メロンブックス]])*
 
     - 初版発行日: 2020/12/30 (エアコミケ2)
     - ゲームボーイ上で動作するOS「AMADO」の2度目のバージョンアップです
