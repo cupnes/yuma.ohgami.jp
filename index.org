@@ -1,7 +1,7 @@
 #+TITLE: 大神　祐真 (Ohgami Yuma) (サークル名:へにゃぺんて)
 #+AUTHOR: 大神 祐真 (Ohgami Yuma)
 #+LANGUAGE: ja
-#+SETUPFILE: ~/git/org-html-themes/setup/theme-bigblow-local.setup
+#+SETUPFILE: ~/git/org-html-themes/org/theme-bigblow-local.setup
 #+OPTIONS: ^:{}
 
 * 名刺代わりなページ
@@ -19,6 +19,15 @@
    紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
+
+*** エミュレータのコードを読んでわかるセガサターン
+    [[https://techbookfest.org/product/5711801452855296][file:uss_cover.png]]
+    → *[[https://techbookfest.org/product/5711801452855296][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2021/07/10 (技術書典11)
+    - セガサターンエミュレータ「Yabause」のソースコードを読むことで、セガサターンというハードがどんな作りのハードだったのかを知る、という本です
+    - ゲームハードのエミュレータは正にそのハードに対する研究結果の結晶のようなものです
+    - そのソースコードを読むことで、普段ゲームをするだけでは知ることができないゲームハードの作りを具体的に知ることができます
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
