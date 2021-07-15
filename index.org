@@ -28,6 +28,10 @@
     - セガサターンエミュレータ「Yabause」のソースコードを読むことで、セガサターンというハードがどんな作りのハードだったのかを知る、という本です
     - ゲームハードのエミュレータは正にそのハードに対する研究結果の結晶のようなものです
     - そのソースコードを読むことで、普段ゲームをするだけでは知ることができないゲームハードの作りを具体的に知ることができます
+    - 追加情報
+      - Yabauseからforkした「[[https://www.uoyabause.org/][uoYabause]]」の開発が進んでいます
+	- ソースコードリポジトリ：https://github.com/devmiyax/yabause
+	- 「[[https://www.youtube.com/watch?v=2SLFl_i1pL0][7/15(木)21時-22時 技術書典11開催スペシャル！書籍紹介！]]」でご指摘いただきました
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
