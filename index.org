@@ -29,9 +29,9 @@
     - ゲームハードのエミュレータは正にそのハードに対する研究結果の結晶のようなものです
     - そのソースコードを読むことで、普段ゲームをするだけでは知ることができないゲームハードの作りを具体的に知ることができます
     - 追加情報
-      - Yabauseからforkした「[[https://www.uoyabause.org/][uoYabause]]」の開発が進んでいます
+      - [[https://www.youtube.com/watch?v=2SLFl_i1pL0&t=5758s][「7/15(木)21時-22時 技術書典11開催スペシャル！書籍紹介！」でご紹介いただきました！]]
+      - ↑でも指摘いただいていましたがYabauseからforkした「[[https://www.uoyabause.org/][uoYabause]]」の開発が進んでいます
 	- ソースコードリポジトリ：https://github.com/devmiyax/yabause
-	- 「[[https://www.youtube.com/watch?v=2SLFl_i1pL0][7/15(木)21時-22時 技術書典11開催スペシャル！書籍紹介！]]」でご指摘いただきました
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
@@ -54,6 +54,10 @@
     - 初版発行日: 2020/12/26 (技術書典10)
     - ゲームボーイ上で動作するOS「AMADO」を使って、ゲームボーイ上でマシン語プログラミングを体験する本です
     - OS側の関数を使うことで、画面に文字を出力したり、ボタン入力を取得したり、ファイル操作をしたり、といった処理を50バイト程度のマシン語で実装します
+    - 追加情報
+      - [[https://www.youtube.com/watch?v=RZCtWfn5wpU&t=3455s][「【技術に出会える】 技術書典10スペシャルオンラインイベント - 書籍紹介！」でご紹介いただきました！]]
+      - [[https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1308961.html][AKIBA PC Hotline!様でご紹介いただきました！]]
+      - [[https://www.youtube.com/watch?v=1vUb2ffTBr4&t=1516s][「刺され！技術書アワード 刺さる部門」のファイナリスト作品にノミネートしました！]]
 
 *** へにゃぺんて活動報告2020年夏号(PDF版)
     [[https://techbookfest.org/product/5998833303552000][file:har2sp_cover.png]]
