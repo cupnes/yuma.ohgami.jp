@@ -95,7 +95,7 @@
 
 *** シェルスクリプトでゲームボーイプログラミング入門
     [[file:GB-Programming-with-Shell-Script.pdf][file:gbps_cover.png]]
-    → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-1--3048][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030828703/][とらのあな]])*
+    → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-1--3048][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030828703/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821036][メロンブックス]])*
 
     - 初版発行日: 2020/05/10 (コミックマーケット98[中止])
     - シェルスクリプトだけでゲームボーイのROMファイルを作る本です。
@@ -105,7 +105,7 @@
 
 *** バイナリ生成環境「daisy-tools」実験報告
     [[file:Daisy-Tools_Laboratory_Report.pdf][file:dtlr_cover.png]]
-    → *[[file:Daisy-Tools_Laboratory_Report.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Daisy-Tools_Laboratory_Report][HTML版]]　　　　　[[https://ecs.toranoana.jp/tora/ec/item/040030816295/][紙版(とらのあな)]]*
+    → *[[file:Daisy-Tools_Laboratory_Report.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Daisy-Tools_Laboratory_Report][HTML版]]　　　　　紙版([[https://ecs.toranoana.jp/tora/ec/item/040030816295/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821037][メロンブックス]])*
 
     - 初版発行日: 2020/02/29 (技術書典8[中止])
     - 進化的にバイナリを生成する「daisy-tools」というシステムの本です。
@@ -115,7 +115,7 @@
 
 *** バイナリ生物学入門
     [[file:Intelligent-Life-in-the-Binary.pdf][file:ilb_cover.png]]
-    → *[[file:Intelligent-Life-in-the-Binary.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Intelligent-Life-in-the-Binary][HTML版]]　　　　　[[https://ecs.toranoana.jp/tora/ec/item/040030802408/][紙版(とらのあな)]]*
+    → *[[file:Intelligent-Life-in-the-Binary.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Intelligent-Life-in-the-Binary][HTML版]]　　　　　紙版([[https://ecs.toranoana.jp/tora/ec/item/040030802408/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821038][メロンブックス]])*
 
     - 初版発行日: 2019/12/31 (コミックマーケット97)
     - 実行バイナリを生物のように扱う処理系の構造と振る舞いのモデルと、実際に単細胞生物として扱うPoCの実験結果を紹介するネタ本です
@@ -125,7 +125,7 @@
 
 *** 作って分かる！x86_64機械語入門
     [[file:Introduction-to-x86_64-Machine-Language.pdf][file:ix86ml_cover.png]]
-    → *[[file:Introduction-to-x86_64-Machine-Language.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Introduction-to-x86_64-Machine-Language][HTML版]]　　　　　[[https://ecs.toranoana.jp/tora/ec/item/040030802403/][紙版(とらのあな)]]*
+    → *[[file:Introduction-to-x86_64-Machine-Language.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:Introduction-to-x86_64-Machine-Language][HTML版]]　　　　　紙版([[https://ecs.toranoana.jp/tora/ec/item/040030802403/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821039][メロンブックス]])*
 
     - 初版発行日: 2019/09/22 ([[*2019/09/22: %E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B87][技術書典7]])
     - 一つずつ構文を理解していくことで機械語を書いてみる本です
