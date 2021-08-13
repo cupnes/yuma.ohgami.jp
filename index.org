@@ -32,6 +32,7 @@
       - [[https://www.youtube.com/watch?v=2SLFl_i1pL0&t=5758s][「7/15(木)21時-22時 技術書典11開催スペシャル！書籍紹介！」でご紹介いただきました！]]
       - ↑でも指摘いただいていましたがYabauseからforkした「[[https://www.uoyabause.org/][uoYabause]]」の開発が進んでいます
 	- ソースコードリポジトリ：https://github.com/devmiyax/yabause
+      - [[https://youtu.be/S2aON6wZ40A?t=1375][「刺され！技術書アワード 刺さる部門」のファイナリスト作品にノミネートしました！]]
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
