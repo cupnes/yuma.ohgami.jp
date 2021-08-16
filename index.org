@@ -22,7 +22,7 @@
 
 *** エミュレータのコードを読んでわかるセガサターン
     [[https://techbookfest.org/product/5711801452855296][file:uss_cover.png]]
-    → *[[https://techbookfest.org/product/5711801452855296][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+    → *[[https://techbookfest.org/product/5711801452855296][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-4--13279][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030925359/][とらのあな]],メロンブックス(TBD))*
 
     - 初版発行日: 2021/07/10 (技術書典11)
     - セガサターンエミュレータ「Yabause」のソースコードを読むことで、セガサターンというハードがどんな作りのハードだったのかを知る、という本です
