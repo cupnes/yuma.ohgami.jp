@@ -20,6 +20,15 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** セガサターンとMIDIで通信する本
+    [[https://techbookfest.org/product/5326410916823040][file:cssm_cover.jpg]]
+    → *[[https://techbookfest.org/product/5326410916823040][PDF版・紙版共に技術書典オンラインマーケットで販売中]]*
+
+    - 初版発行日: 2022/01/22 (技術書典12)
+    - 実はセガサターンには、当時あったデバイスを使うことで、電子楽器を接続するインタフェースであるMIDIの接続が行えます
+    - この本では、それを使ってMIDIキーボードやPCとの通信を試します
+    - そして、PCとの通信の応用例として、PCから受信した実行バイナリをメモリへロードして実行するローダを作ってみます
+
 *** セガサターンCDシステムのうすい本
     [[https://techbookfest.org/product/5821234367430656][file:uss2_cover.png]]
     → *[[https://techbookfest.org/product/5821234367430656][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://ecs.toranoana.jp/tora/ec/item/040030961389/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1178260][メロンブックス]])*
