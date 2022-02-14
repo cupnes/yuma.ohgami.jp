@@ -31,11 +31,13 @@
 
 *** セガサターンCDシステムのうすい本
     [[https://techbookfest.org/product/5821234367430656][file:uss2_cover.png]]
-    → *[[https://techbookfest.org/product/5821234367430656][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://ecs.toranoana.jp/tora/ec/item/040030961389/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1178260][メロンブックス]])*
+    → *[[https://techbookfest.org/product/5821234367430656][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-5--19322][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030961389/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1178260][メロンブックス]])*
 
     - 初版発行日: 2021/12/31 (コミックマーケット99)
     - セガサターンのCDドライブ周りは実は内部的に独立したシステムになっています
     - この本では、セガサターンのCDシステムを公式で公開している図やエミュレータのソースコードで解説し、実際のCDシステムの制御の様子をエミュレータのログで見ていきます
+    - 追加情報
+      - [[https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1387883.html][AKIBA PC Hotline!様でご紹介いただきました！]]
 
 *** エミュレータのコードを読んでわかるセガサターン
     [[https://techbookfest.org/product/5711801452855296][file:uss_cover.png]]
