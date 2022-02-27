@@ -16,7 +16,7 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌/同人作品
-   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?name=%25E3%2581%25B8%25E3%2581%25AB%25E3%2582%2583%25E3%2581%25BA%25E3%2582%2593%25E3%2581%25A6][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
+   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?category_id=1015][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
