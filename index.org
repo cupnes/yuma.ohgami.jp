@@ -22,7 +22,7 @@
 
 *** セガサターンとMIDIで通信する本
     [[https://techbookfest.org/product/5326410916823040][file:cssm_cover.jpg]]
-    → *[[https://techbookfest.org/product/5326410916823040][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-6--19770][BEEP]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1372235][メロンブックス]])*
+    → *[[https://techbookfest.org/product/5326410916823040][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-6--19770][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030969615/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1372235][メロンブックス]])*
 
     - 初版発行日: 2022/01/22 (技術書典12)
     - 実はセガサターンには、当時あったデバイスを使うことで、電子楽器を接続するインタフェースであるMIDIの接続が行えます
