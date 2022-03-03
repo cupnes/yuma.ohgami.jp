@@ -28,6 +28,8 @@
     - 実はセガサターンには、当時あったデバイスを使うことで、電子楽器を接続するインタフェースであるMIDIの接続が行えます
     - この本では、それを使ってMIDIキーボードやPCとの通信を試します
     - そして、PCとの通信の応用例として、PCから受信した実行バイナリをメモリへロードして実行するローダを作ってみます
+    - 追加情報
+      - [[https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1391302.html][AKIBA PC Hotline!様でご紹介いただきました！]]
 
 *** セガサターンCDシステムのうすい本
     [[https://techbookfest.org/product/5821234367430656][file:uss2_cover.png]]
