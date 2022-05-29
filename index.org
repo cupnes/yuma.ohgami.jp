@@ -134,6 +134,8 @@
     - コンセプトや進化の仕組み、簡単なELFバイナリを生成する実験結果を紹介します！
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/daisy-tools
+    - 追加情報
+      - 「2.2 使⽤例: 簡単な評価スクリプトで試す」の「ツールをダウンロード」で、「[[https://github.com/cupnes/daisy-tools/releases][daisy-toolsリポジトリのReleasesページ]]のZIPアーカイブを展開すると『dsy-work』というディレクトリができあがる」という説明をしていましたが、公開しているアーカイブはバージョンによってできあがるディレクトリ名が「dsy-work_YYYYMMDD」だったり「daisy-tools_vYYYYMMDD」だったり様々です。この項の文中でも「このディレクトリ名は変更しても構いません」と書いていた通り、このディレクトリ名に特に意味は無いので気にしなくて構いません。
 
 *** バイナリ生物学入門
     [[file:Intelligent-Life-in-the-Binary.pdf][file:ilb_cover.png]]
