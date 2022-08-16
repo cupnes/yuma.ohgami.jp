@@ -10,6 +10,7 @@
    | ブログ              | https://yohgami.hateblo.jp/                              |
    | 発表資料            | https://www.slideshare.net/yarakawa/                     |
    | YouTube(過去のデモ) | https://www.youtube.com/channel/UC1kKe2fuipI-RC_It9uSGYQ |
+   | Twitter             | https://twitter.com/yohgami                              |
 
 *** DONE 最近は使用していない場所
     | 成果物など | http://funlinux.org             |
@@ -19,6 +20,14 @@
    紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?category_id=1015][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
+
+*** セガサターン自作シンセサイザー読本
+    [[file:Understanding-the-Sega-Saturn4.pdf][file:uss4_cover.jpg]]
+    → *[[file:Understanding-the-Sega-Saturn4.pdf][PDF版(表紙画像リンク先と同じ)]]*
+
+    - 初版発行日: 2022/08/13 (コミックマーケット100)
+    - [[https://youtube.com/playlist?list=PLyRFvsy-N_GQKmC8_yqhvtLsnxlyxn1Lp][セガサターン自作シンセサイザー]]についての技術解説本です
+    - セガサターンの音源ICがシンセサイザーだって作れるほどの機能を持っていることをエミュレータのコードで解説しています
 
 *** セガサターンとMIDIで通信する本
     [[https://techbookfest.org/product/5326410916823040][file:cssm_cover.jpg]]
@@ -594,7 +603,6 @@
 
 ** 連絡先
    - E-Mail :: yuma#ohgami.jp (#を@へ変更してください)
-   - Twitter :: [[https://twitter.com/yohgami][@yohgami]]
    - GPG Key :: 0xF12327D6 ([[file:yuma_ohgami.pub.asc.txt][public key]])
      #+BEGIN_EXAMPLE
        pub   4096R/F12327D6 2016-06-18
