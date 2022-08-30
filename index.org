@@ -143,6 +143,8 @@
     - コンセプトや進化の仕組み、簡単なELFバイナリを生成する実験結果を紹介します！
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/daisy-tools
+    - 追加情報
+      - [[https://www.ipa.go.jp/jinzai/camp/2022/next2022_program_list.html#list_next5][「セキュリティ・ネクストキャンプ2022 オンライン」にて、バイナリ生物学と本書に関する講義を行いました！]]
 
 *** バイナリ生物学入門
     [[file:Intelligent-Life-in-the-Binary.pdf][file:ilb_cover.png]]
@@ -153,6 +155,8 @@
     - 実験では、バイナリが生物の振る舞いをしていることと、例として、ウイルス感染した個体が発生しても系としては正常に戻る様子を紹介しています！
     - サンプルコードは↓で公開しています(GitHub)
       - [[https://github.com/cupnes/intelligent_life_in_the_binary_samples]]
+    - 追加情報
+      - [[https://www.ipa.go.jp/jinzai/camp/2022/next2022_program_list.html#list_next5][「セキュリティ・ネクストキャンプ2022 オンライン」にて、本書とdaisy-toolsに関する講義を行いました！]]
 
 *** 作って分かる！x86_64機械語入門
     [[file:Introduction-to-x86_64-Machine-Language.pdf][file:ix86ml_cover.png]]
