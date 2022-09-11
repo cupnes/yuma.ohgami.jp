@@ -28,6 +28,8 @@
     - 初版発行日: 2022/08/13 (コミックマーケット100)
     - [[https://youtube.com/playlist?list=PLyRFvsy-N_GQKmC8_yqhvtLsnxlyxn1Lp][セガサターン自作シンセサイザー]]についての技術解説本です
     - セガサターンの音源ICがシンセサイザーだって作れるほどの機能を持っていることをエミュレータのコードで解説しています
+    - 追加・訂正情報
+      - 本書の中で"MC68EC00"と書いている箇所は全て誤記で、正しくは"MC68EC000"でした
 
 *** セガサターンとMIDIで通信する本
     [[https://techbookfest.org/product/5326410916823040][file:cssm_cover.jpg]]
