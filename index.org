@@ -23,7 +23,7 @@
 
 *** セガサターン自作シンセサイザー読本
     [[file:Understanding-the-Sega-Saturn4.pdf][file:uss4_cover.jpg]]
-    → *[[file:Understanding-the-Sega-Saturn4.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-7--26761][BEEP]])*
+    → *PDF版([[file:Understanding-the-Sega-Saturn4.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/ityGWSqTutAfH2th5qND1j][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-7--26761][BEEP]])*
 
     - 初版発行日: 2022/08/13 (コミックマーケット100)
     - [[https://youtube.com/playlist?list=PLyRFvsy-N_GQKmC8_yqhvtLsnxlyxn1Lp][セガサターン自作シンセサイザー]]についての技術解説本です
