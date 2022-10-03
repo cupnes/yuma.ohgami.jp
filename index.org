@@ -517,6 +517,12 @@
     - LTタイトル：セガサターンマシン語プログラミングの紹介
       - [[https://www.slideshare.net/yarakawa/ss-250079982][スライド資料(SlideShare)]]
 
+*** DONE 2021/08/28: オープンデベロッパーズカンファレンス2021 Online
+    - 8/28(土)の[[https://event.ospn.jp/odc2021-online/][オープンデベロッパーズカンファレンス2021 Online]]で[[https://event.ospn.jp/odc2021-online/session/396084][セミナー発表しました]]
+    - セミナータイトル：ハードの作りで振り返るセガサターン
+      - [[https://www.slideshare.net/yarakawa/ss-250068281][スライド資料(SlideShare)]]
+      - [[https://youtu.be/jbvH9HgsEP8][録画(YouTube)]]
+
 *** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
     - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
     - LTタイトル：「生きたOS」の話
