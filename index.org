@@ -523,6 +523,12 @@
       - [[https://www.slideshare.net/yarakawa/ss-250068281][スライド資料(SlideShare)]]
       - [[https://youtu.be/jbvH9HgsEP8][録画(YouTube)]]
 
+*** DONE 2021/06/26: オープンソースカンファレンス2021 Online/Hokkaido
+    - 6/26(土)の[[https://event.ospn.jp/osc2021-online-do/][オープンソースカンファレンス2021 Online/Hokkaido]]で[[https://event.ospn.jp/osc2021-online-do/session/349614][LT発表しました]]
+    - LTタイトル：エミュレータのコードを読んでわかる「セガサターン」
+      - [[https://www.slideshare.net/yarakawa/ss-249505301][スライド資料(SlideShare)]]
+      - [[https://youtu.be/FIFtjMqEuZU?t=1775][録画(YouTube)]]
+
 *** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
     - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
     - LTタイトル：「生きたOS」の話
