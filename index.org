@@ -523,6 +523,11 @@
       - [[https://www.slideshare.net/yarakawa/ss-250068281][スライド資料(SlideShare)]]
       - [[https://youtu.be/jbvH9HgsEP8][録画(YouTube)]]
 
+*** DONE 2021/08/11: レトロゲーム勉強会#05
+    - 8/11(水)の[[https://retrog.connpass.com/event/216985/][レトロゲーム勉強会#05]]でLT発表しました
+    - LTタイトル：エミュレータのコードを読んでわかるセガサターン
+      - [[https://www.slideshare.net/yarakawa/ss-250003183][スライド資料(SlideShare)]]
+
 *** DONE 2021/06/26: オープンソースカンファレンス2021 Online/Hokkaido
     - 6/26(土)の[[https://event.ospn.jp/osc2021-online-do/][オープンソースカンファレンス2021 Online/Hokkaido]]で[[https://event.ospn.jp/osc2021-online-do/session/349614][LT発表しました]]
     - LTタイトル：エミュレータのコードを読んでわかる「セガサターン」
