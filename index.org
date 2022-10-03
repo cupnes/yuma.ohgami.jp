@@ -529,6 +529,12 @@
       - [[https://www.slideshare.net/yarakawa/ss-249505301][スライド資料(SlideShare)]]
       - [[https://youtu.be/FIFtjMqEuZU?t=1775][録画(YouTube)]]
 
+*** DONE 2020/10/25: オープンソースカンファレンス2020 Online/Aizu
+    - 10/25(日)の[[https://ospn.connpass.com/event/186393/][オープンソースカンファレンス2020 Online/Aizu]]でLT発表しました
+    - LTタイトル：メガドラ実機で自作のROMファイルを動かしてみた話
+      - スライド資料([[https://www.slideshare.net/yarakawa/rom-238967746][SlideShare]], [[https://github.com/cupnes/megadrive_test/releases/tag/osc_2020_online_aizu][ROMファイル]])
+      - [[https://youtu.be/VkXkYu2Uc2Q?t=3603][録画(YouTube)]]
+
 *** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
     - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
     - LTタイトル：「生きたOS」の話
