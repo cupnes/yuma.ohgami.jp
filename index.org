@@ -496,6 +496,17 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2022/06/25: オープンソースカンファレンス2022 Online/Hokkaido
+    - 6/25(土)の[[https://event.ospn.jp/osc2022-online-do/][オープンソースカンファレンス2022 Online/Hokkaido]]で[[https://event.ospn.jp/osc2022-online-do/session/591172][LT発表しました]]
+    - LTタイトル：バイナリ生成環境『daisy-tools』のご紹介
+      - [[https://www.slideshare.net/yarakawa/daisytools][スライド資料(SlideShare)]]
+      - [[https://youtu.be/bYdwibcSHLE?t=441][録画(YouTube)]]
+
+*** DONE 2022/03/12: オープンソースカンファレンス2022 Online/Spring
+    - 3/12(土)の[[https://event.ospn.jp/osc2022-online-spring/][オープンソースカンファレンス2022 Online/Spring]]で[[https://event.ospn.jp/osc2022-online-spring/session/511253][LT発表しました]]
+    - LTタイトル：セガサターンでシンセ作り始めてみた
+      - [[https://youtu.be/lDWpmHC7HRw][録画(YouTube)]]
+
 *** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
     - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
     - LTタイトル：「生きたOS」の話
