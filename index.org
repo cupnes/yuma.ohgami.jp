@@ -534,6 +534,17 @@
       - [[https://www.slideshare.net/yarakawa/ss-249505301][スライド資料(SlideShare)]]
       - [[https://youtu.be/FIFtjMqEuZU?t=1775][録画(YouTube)]]
 
+*** DONE 2021/04/17: Open Source unConference 2021 Online/Spring
+    - 4/17(土)の[[https://ospn.connpass.com/event/208385/][Open Source unConference 2021 Online/Spring]]でLT発表しました
+    - LTタイトル：シェルスクリプトでセガサターンマシン語ベアメタルプログラミング
+      - [[https://www.slideshare.net/yarakawa/ss-246356900][スライド資料(SlideShare)]]
+      - [[https://youtu.be/OrKnhIT5KG8?t=2135][録画(YouTube)]]
+
+*** DONE 2020/12/30: 第23回 自作OSもくもく会オンライン
+    - 12/30(水)の[[https://osdev-jp.connpass.com/event/200085/][第23回 自作OSもくもく会オンライン]]で発表しました
+    - 発表タイトル：ゲームボーイ向けOSの作り方
+      - [[https://www.slideshare.net/yarakawa/os-240719009][スライド資料(SlideShare)]]
+
 *** DONE 2020/10/25: オープンソースカンファレンス2020 Online/Aizu
     - 10/25(日)の[[https://ospn.connpass.com/event/186393/][オープンソースカンファレンス2020 Online/Aizu]]でLT発表しました
     - LTタイトル：メガドラ実機で自作のROMファイルを動かしてみた話
