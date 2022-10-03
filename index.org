@@ -507,6 +507,11 @@
     - LTタイトル：セガサターンでシンセ作り始めてみた
       - [[https://youtu.be/lDWpmHC7HRw][録画(YouTube)]]
 
+*** DONE 2022/01/29: オープンソースカンファレンス2022 Online/Osaka
+    - 1/29(土)の[[https://event.ospn.jp/osc2022-online-osaka/][オープンソースカンファレンス2022 Online/Osaka]]で[[https://event.ospn.jp/osc2022-online-osaka/session/508722][LT発表しました]]
+    - LTタイトル：技術書典12新刊『セガサターンとMIDIで通信する本』の紹介
+      - [[https://youtu.be/wPjeK2bIvwE?t=393][録画(YouTube)]]
+
 *** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
     - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
     - LTタイトル：「生きたOS」の話
