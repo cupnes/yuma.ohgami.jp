@@ -502,6 +502,12 @@
       - [[https://www.slideshare.net/yarakawa/daisytools][スライド資料(SlideShare)]]
       - [[https://youtu.be/bYdwibcSHLE?t=441][録画(YouTube)]]
 
+*** DONE 2022/06/23: レトロゲーム勉強会#06
+    - 6/23(木)の[[https://retrog.connpass.com/event/249578/][レトロゲーム勉強会#06]]でLT発表しました
+    - LTタイトル：セガサターンで動く自作シンセサイザーについて
+      - [[https://github.com/cupnes/sh_ss_synth_retrogstudy_06][スライド資料(ROMイメージを生成するスクリプト)]]
+      - [[https://youtu.be/nmoKBJfT9fQ][リハーサル時の録画(YouTube)]]
+
 *** DONE 2022/03/12: オープンソースカンファレンス2022 Online/Spring
     - 3/12(土)の[[https://event.ospn.jp/osc2022-online-spring/][オープンソースカンファレンス2022 Online/Spring]]で[[https://event.ospn.jp/osc2022-online-spring/session/511253][LT発表しました]]
     - LTタイトル：セガサターンでシンセ作り始めてみた
@@ -533,6 +539,11 @@
     - LTタイトル：エミュレータのコードを読んでわかる「セガサターン」
       - [[https://www.slideshare.net/yarakawa/ss-249505301][スライド資料(SlideShare)]]
       - [[https://youtu.be/FIFtjMqEuZU?t=1775][録画(YouTube)]]
+
+*** DONE 2021/04/18: 第25回 自作OSもくもく会オンライン
+    - 4/18(日)の[[https://osdev-jp.connpass.com/event/209518/][第25回 自作OSもくもく会オンライン]]で発表しました
+    - 発表タイトル：シェルスクリプトでセガサターンマシン語ベアメタルプログラミング
+      - [[https://www.slideshare.net/yarakawa/ss-246356900][スライド資料(SlideShare)]]
 
 *** DONE 2021/04/17: Open Source unConference 2021 Online/Spring
     - 4/17(土)の[[https://ospn.connpass.com/event/208385/][Open Source unConference 2021 Online/Spring]]でLT発表しました
