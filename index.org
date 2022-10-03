@@ -496,6 +496,10 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2019/11/24: オープンソースカンファレンス2019 Tokyo/Fall
+    - 11/24(日)の[[https://www.ospn.jp/osc2019-fall/][オープンソースカンファレンス2019 Tokyo/Fall]]で[[https://www.ospn.jp/osc2019-fall/modules/eguide/e2.html][LT発表しました]]
+    - LTタイトル：「生きたOS」の話
+
 *** DONE 2019/09/21: 小江戸らぐ 9月のオフな集まり(第206回)
     - 9/21(土)の[[https://koedolug.connpass.com/event/144815/][小江戸らぐ 9月のオフな集まり(第206回)]]で発表しました
     - 内容は技術書典7新刊である「x86_64機械語本」の紹介です
