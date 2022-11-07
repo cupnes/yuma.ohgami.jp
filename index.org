@@ -21,6 +21,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** へにゃぺんて活動報告2022年秋号
+    [[https://yohgami.booth.pm/items/4303745][file:har22a_cover.png]]
+    → *[[https://yohgami.booth.pm/items/4303745][ROM版(BOOTH)(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2022/11/06 (レトロクリエイターズ)
+    - これ自体がゲームボーイ用自作OS「AMADO」のデモとしてちょっとした画像と実行ファイルが入っています。
+    - 今回は小ネタとして乱数を聴くことができる「らんすうかなでーる」を同梱しました。
+      - (エセ)乱数を生成しそれをサウンドの入力値として使う、といった事を行うアプリです。ランダムな8ビットピコピコサウンドを聴くことができます。
+      - 乱数生成の入力値としてマウスカーソルの座標値を使っていて、十字キーをグリグリすることで乱数に変化を与えることができます。
+
 *** セガサターン自作シンセサイザー読本
     [[file:Understanding-the-Sega-Saturn4.pdf][file:uss4_cover.jpg]]
     → *PDF版([[file:Understanding-the-Sega-Saturn4.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/ityGWSqTutAfH2th5qND1j][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-7--26761][BEEP]])*
