@@ -506,6 +506,23 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2022/11/26: オープンソースカンファレンス2022 Online/Fukuoka
+    - 11/26(土)の[[https://event.ospn.jp/osc2022-online-fukuoka/][オープンソースカンファレンス2022 Online/Fukuoka]]で[[https://event.ospn.jp/osc2022-online-fukuoka/session/709281][LT発表しました]]
+    - LTタイトル：『へにゃぺんて』のこれまでを振り返るブログ記事の紹介
+      - [[https://www.slideshare.net/yarakawa/ss-254504915][スライド資料(SlideShare)]]
+      - ※ 11/19の小江戸らぐでの10分程度の発表を5分にまとめたものです(スライド資料としてはほとんど同じ)
+
+*** DONE 2022/11/19: 小江戸らぐ 11月のオフな集まり(第244回)
+    - 11/19(土)の[[https://koedolug.connpass.com/event/262814/][小江戸らぐ 11月のオフな集まり(第244回)]]で発表しました
+    - 発表タイトル：「へにゃぺんて」のこれまでを振り返るブログ記事の紹介
+      - [[https://www.slideshare.net/yarakawa/ss-254315527][スライド資料(SlideShare)]]
+
+*** DONE 2022/08/09-10: セキュリティ・ネクストキャンプ2022 オンライン
+    - [[https://www.ipa.go.jp/jinzai/camp/2022/next2022_index.html][セキュリティ・ネクストキャンプ2022 オンライン]]にて、「[[https://www.ipa.go.jp/jinzai/camp/2022/next2022_program_list.html#list_next5][バイナリ生物学入門]]」というタイトルで2コマ(スケジュールN5、N9)の講義を行いました
+    - 講義で使用したスライド資料はこちら↓(Slideshare)
+      - [[https://www.slideshare.net/yarakawa/2022-n5][N5 8/9(火) 15:30〜17:30]]
+      - [[https://www.slideshare.net/yarakawa/2022-n9][N9 8/10(水) 18:30〜20:30]]
+
 *** DONE 2022/06/25: オープンソースカンファレンス2022 Online/Hokkaido
     - 6/25(土)の[[https://event.ospn.jp/osc2022-online-do/][オープンソースカンファレンス2022 Online/Hokkaido]]で[[https://event.ospn.jp/osc2022-online-do/session/591172][LT発表しました]]
     - LTタイトル：バイナリ生成環境『daisy-tools』のご紹介
