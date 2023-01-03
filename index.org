@@ -521,6 +521,7 @@
     - 11/26(土)の[[https://event.ospn.jp/osc2022-online-fukuoka/][オープンソースカンファレンス2022 Online/Fukuoka]]で[[https://event.ospn.jp/osc2022-online-fukuoka/session/709281][LT発表しました]]
     - LTタイトル：『へにゃぺんて』のこれまでを振り返るブログ記事の紹介
       - [[https://www.slideshare.net/yarakawa/ss-254504915][スライド資料(SlideShare)]]
+      - [[https://www.youtube.com/watch?v=V3RxsPPb_QA&t=2318s][録画(YouTube)]]
       - ※ 11/19の小江戸らぐでの10分程度の発表を5分にまとめたものです(スライド資料としてはほとんど同じ)
 
 *** DONE 2022/11/19: 小江戸らぐ 11月のオフな集まり(第244回)
