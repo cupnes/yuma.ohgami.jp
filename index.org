@@ -517,6 +517,13 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/01/13: レトロゲーム勉強会#07
+    - 1/13(金)の[[https://retrog.connpass.com/event/252373/][レトロゲーム勉強会#07]]でLT発表しました
+    - LTタイトル：DaisyOS(仮)のご紹介
+      - [[https://yohgami.booth.pm/items/4480971][使用したGBソフトのROMファイル(BOOTH)]]
+      - [[https://www.slideshare.net/yarakawa/daisyos][GBソフトのスライド部分の元データをPDF化したもの(SlideShare)]]
+      - [[https://github.com/cupnes/daisy-os-gb/releases/tag/v0.2.0][ソースコード(GitHub)]]
+
 *** DONE 2022/11/26: オープンソースカンファレンス2022 Online/Fukuoka
     - 11/26(土)の[[https://event.ospn.jp/osc2022-online-fukuoka/][オープンソースカンファレンス2022 Online/Fukuoka]]で[[https://event.ospn.jp/osc2022-online-fukuoka/session/709281][LT発表しました]]
     - LTタイトル：『へにゃぺんて』のこれまでを振り返るブログ記事の紹介
