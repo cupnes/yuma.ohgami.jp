@@ -517,6 +517,10 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/03/11: オープンソースカンファレンス2023 Online/Spring
+    - 3/11(土)の[[https://event.ospn.jp/osc2023-online-spring/][オープンソースカンファレンス2023 Online/Spring]]で[[https://event.ospn.jp/osc2023-online-spring/session/816638][LT発表しました]]
+    - LTタイトル：simhでPDP-7ベアメタルプログラミング
+
 *** DONE 2023/01/13: レトロゲーム勉強会#07
     - 1/13(金)の[[https://retrog.connpass.com/event/252373/][レトロゲーム勉強会#07]]でLT発表しました
     - LTタイトル：DaisyOS(仮)のご紹介
