@@ -21,6 +21,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** SimHでPDP-7ベアメタルプログラミング
+    [[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][file:pbps-cover.png]]
+    → *[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2023/05/20 (技術書典14)
+    - 「SimH」というシミュレータを用いて、「PDP-7」という1960年代のコンピュータをアセンブリ言語で直接制御するベアメタルプログラミングを行う本です！
+    - 基本的な計算の行い方から始め、テレタイプによる入出力で「HELLO WORLD!」や「エコーバック」のプログラムを作ったり、シミュレータ上で動作するベクタースキャンディスプレイを制御したりします！
+    - サンプルコードは↓で公開しています(GitHub)
+      - https://github.com/cupnes/pdp7-baremetal-programming-with-simh-samples
+
 *** DaisyOS(仮) v0.1.0
     [[https://yohgami.booth.pm/items/4430097][file:dog010_cover.png]]
     → *[[https://yohgami.booth.pm/items/4430097][ROM版(BOOTH)(上記画像リンク先と同じ)]]*
