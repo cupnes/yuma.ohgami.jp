@@ -30,6 +30,8 @@
     - 基本的な計算の行い方から始め、テレタイプによる入出力で「HELLO WORLD!」や「エコーバック」のプログラムを作ったり、シミュレータ上で動作するベクタースキャンディスプレイを制御したりします！
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/pdp7-baremetal-programming-with-simh-samples
+    - 追加情報
+      - [[https://www.ipa.go.jp/jinzai/security-camp/2023/next/program_list.html#2023n5][「セキュリティ・ネクストキャンプ2023」にて同タイトルの講義を行います！]]
 
 *** DaisyOS(仮) v0.1.0
     [[https://yohgami.booth.pm/items/4430097][file:dog010_cover.png]]
