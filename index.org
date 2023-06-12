@@ -23,7 +23,7 @@
 
 *** SimHでPDP-7ベアメタルプログラミング
     [[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][file:pbps-cover.png]]
-    → *[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+    → *[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-8--36029][BEEP]])*
 
     - 初版発行日: 2023/05/20 (技術書典14)
     - 「SimH」というシミュレータを用いて、「PDP-7」という1960年代のコンピュータをアセンブリ言語で直接制御するベアメタルプログラミングを行う本です！
