@@ -529,6 +529,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/06/17: オープンソースカンファレンス2023 Online/Hokkaido
+    - 6/17(土)の[[https://event.ospn.jp/osc2023-online-do/][オープンソースカンファレンス2023 Online/Hokkaido]]で[[https://event.ospn.jp/osc2023-online-do/session/970590][LT発表しました]]
+    - LTタイトル：来週の展示内容紹介
+      - [[https://www.slideshare.net/yarakawa/ss-258773686][スライド資料(SlideShare)]]
+
 *** DONE 2023/03/11: オープンソースカンファレンス2023 Online/Spring
     - 3/11(土)の[[https://event.ospn.jp/osc2023-online-spring/][オープンソースカンファレンス2023 Online/Spring]]で[[https://event.ospn.jp/osc2023-online-spring/session/816638][LT発表しました]]
     - LTタイトル：simhでPDP-7ベアメタルプログラミング
