@@ -30,8 +30,13 @@
     - 基本的な計算の行い方から始め、テレタイプによる入出力で「HELLO WORLD!」や「エコーバック」のプログラムを作ったり、シミュレータ上で動作するベクタースキャンディスプレイを制御したりします！
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/pdp7-baremetal-programming-with-simh-samples
-    - 追加情報
+    - 追加・訂正情報
       - [[https://www.ipa.go.jp/jinzai/security-camp/2023/next/program_list.html#2023n5][「セキュリティ・ネクストキャンプ2023」にて同タイトルの講義を行います！]]
+      - PDP-7のリリース年を「1965年」と書いておりましたが正しくは「1964年」であるようです
+	- 「1965年」というのは[[https://ja.wikipedia.org/wiki/PDP-7][Wikipediaの記事]]を見てそのように認識していました
+	- ただ、同記事には「DIGITAL Computing Timeline では1964年登場とされている」とも書かれています
+	- 「DIGITAL Computing Timeline」はかつてDECが公開していたウェブサイトであるようで、こちらの方が信憑性が高そうです
+	- 対して「1965年」には根拠を見つけられませんでした
 
 *** DaisyOS(仮) v0.1.0
     [[https://yohgami.booth.pm/items/4430097][file:dog010_cover.png]]
