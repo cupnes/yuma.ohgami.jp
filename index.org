@@ -534,6 +534,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/07/21: レトロゲーム勉強会#08
+    - 7/21(金)の[[https://retrog.connpass.com/event/272131/][レトロゲーム勉強会#08]]でLT発表しました
+    - LTタイトル：60年代ゲームハードPDP-7のご紹介
+      - [[https://www.slideshare.net/yarakawa/60pdp7][スライド資料(SlideShare)]]
+
 *** DONE 2023/06/17: オープンソースカンファレンス2023 Online/Hokkaido
     - 6/17(土)の[[https://event.ospn.jp/osc2023-online-do/][オープンソースカンファレンス2023 Online/Hokkaido]]で[[https://event.ospn.jp/osc2023-online-do/session/970590][LT発表しました]]
     - LTタイトル：来週の展示内容紹介
