@@ -1033,7 +1033,9 @@
    - [[http://d.hatena.ne.jp/cupnes/20160228/1456646962][AVRマイコンで電卓もどきを作ってます(SC1602 LCDとキーマトリクスモジュール)]]
    - [[http://d.hatena.ne.jp/cupnes/20160214/1455467810][Debian Jessie上にAVRマイコン開発環境構築～LEDチカチカまで]]
    - 自作アーケード基板
+     - [[https://twitter.com/yohgami/status/1275799025468370945][カラーバー表示]]
      - [[https://twitter.com/yohgami/status/1309798396132167680][ブロック崩し(未満)]]
+     - [[https://github.com/cupnes/avr_ac_sys_board_samples][ソースコード]]
 
 ** その他
    - [[http://d.hatena.ne.jp/cupnes/20130227/1361975773][トランジスタで論理ゲート製作（ANDゲート）]]
