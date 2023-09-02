@@ -544,6 +544,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/09/02: セキュリティ・キャンプアフターイベント
+    - 9/2(土)のセキュリティ・キャンプアフターイベントでLT発表しました
+    - LTタイトル：去年「バイナリ生物学」で今年「PDP-7」だったのはなぜなのか？
+      - [[https://www.slideshare.net/yarakawa/pdp7][スライド資料(SlideShare)]]
+
 *** DONE 2023/07/21: レトロゲーム勉強会#08
     - 7/21(金)の[[https://retrog.connpass.com/event/272131/][レトロゲーム勉強会#08]]でLT発表しました
     - LTタイトル：60年代ゲームハードPDP-7のご紹介
