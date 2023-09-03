@@ -37,6 +37,7 @@
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/pdp7-baremetal-programming-with-simh-samples
     - 追加・訂正情報
+      - [[https://scrapbox.io/simh-pdp7/][Scrapboxに追加の情報などをまとめています]]
       - [[https://www.ipa.go.jp/jinzai/security-camp/2023/next/program_list.html#2023n5][「セキュリティ・ネクストキャンプ2023」にて同タイトルの講義を行います！]]
       - 1.1節でPDP-7のリリース年を「1965年」と書いておりましたが正しくは「1964年」であるようです
 	- 「1965年」というのは[[https://ja.wikipedia.org/wiki/PDP-7][Wikipediaの記事]]を見てそのように認識していました
