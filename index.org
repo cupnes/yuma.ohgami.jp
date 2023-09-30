@@ -547,6 +547,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/09/30: オープンソースカンファレンス2023 Online/Fall
+    - 9/30(土)の[[https://event.ospn.jp/osc2023-online-fall/][オープンソースカンファレンス2023 Online/Fall]]で[[https://event.ospn.jp/osc2023-online-fall/session/1147807][LT発表しました]]
+    - LTタイトル：OSC2023 Tokyo/Fall展示内容(予定)と技術書典15向け新刊(執筆中)のご紹介
+      - [[https://www.slideshare.net/yarakawa/osc2023-tokyofall15][スライド資料(SlideShare)]]
+
 *** DONE 2023/09/02: セキュリティ・キャンプアフターイベント
     - 9/2(土)のセキュリティ・キャンプアフターイベントでLT発表しました
     - LTタイトル：去年「バイナリ生物学」で今年「PDP-7」だったのはなぜなのか？
