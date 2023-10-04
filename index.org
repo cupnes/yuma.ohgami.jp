@@ -897,6 +897,31 @@
    |                          | カートリッジRAMリストアデモ：                          |
    |                          | https://twitter.com/yohgami/status/1332704263617662979 |
 
+   - ゲームボーイソフトが動く一通りのハードで動作確認している様子
+     - https://twitter.com/yohgami/status/1344471911619678209
+   - 即興で作ったお絵かきソフトで2021年の書き初め
+     - https://twitter.com/yohgami/status/1345639602481053696
+
+** DaisyOS
+   - バイナリ生物学に基づくOS
+   - バイナリが生き物のように振る舞えるシステムをOSとして提供する
+
+*** GB版
+    - カートリッジ写真と説明画像
+      - https://twitter.com/yohgami/status/1608670014755966977
+    - エミュレータ上での動作デモ
+      - 動作の様子
+	- https://twitter.com/yohgami/status/1600500889055531008
+      - "HELLO"の各文字を生み出す
+	- https://twitter.com/yohgami/status/1608732000172781570
+    - オマケ的に付けたスライドショー機能
+      - エミュレータ上で動作している様子
+	- https://twitter.com/yohgami/status/1614627449081561089
+      - 実機でスーパーゲームボーイを用いて動作している様子(実機の映像と音声の出力を取り込んだもの)
+	- https://twitter.com/yohgami/status/1614636605251399680
+      - 実機で動作している様子の写真
+	- https://twitter.com/yohgami/status/1614636797572820993
+
 * ベアメタルプログラミング
 ** UEFIベアメタルプログラミング
    - UEFI+x86_64でのOS自作をフルスクラッチでやれるよう、まずはUEFIの勉強としてベアメタルプログラミングをしています
@@ -943,6 +968,10 @@
 
 *** ブログ記事
     - [[http://d.hatena.ne.jp/cupnes/20140831/1409469778][Debian 7.6(wheezy)でファミコン(NES)プログラミング(6502アセンブル/逆アセンブル)]]
+
+** メガドライブベアメタルプログラミング
+   - 作ったプログラムを実機で動作させている様子
+     - https://twitter.com/yohgami/status/1319295888443932673
 
 * Linux
 ** kernel
