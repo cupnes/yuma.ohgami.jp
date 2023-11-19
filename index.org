@@ -27,6 +27,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** よりシンプルなバイナリ生物学の本
+    [[file:Simpler-Binary-Biology-Book.pdf][file:sbbb-cover.png]]
+    → *PDF版([[file:Simpler-Binary-Biology-Book.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/wwmmiQYtue5QT29Ye8mtgm][技術書典オンラインマーケット]])*
+
+    - 初版発行日: 2023/11/11 (技術書典15)
+    - 「バイナリ生物学」の理論を1960年代のコンピュータであるPDP-7でも動くくらいシンプルにした設計を解説し、PDP-7のシミュレータ上で動作するPoC実装で行った実験とその結果を紹介する本です！
+    - 実験としては「デイジーワールド」と呼ばれるモデル環境を再現する実験を行いました。「バイナリ生物学の実装の上で生物による自己制御のようなものが働くのかどうか」といった所を実験を用いて紹介します！
+    - PoC実装は↓で公開しています(GitHub)
+      - https://github.com/cupnes/daisy-os-pdp7
+
 *** SimHでPDP-7ベアメタルプログラミング
     [[file:PDP7-BareMetal-Programming-with-SimH.pdf][file:pbps-cover.png]]
     → *PDF版([[file:PDP7-BareMetal-Programming-with-SimH.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-8--36029][BEEP]])*
