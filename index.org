@@ -557,6 +557,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2023/12/03: レトロクリエイターズ2023
+    - 12/3(日)の[[https://retrocreators.wixsite.com/event][レトロクリエイターズ2023]]でサークルと作品について発表しました
+    - タイトル：へにゃぺんてサークル紹介
+      - [[https://yohgami.booth.pm/items/5306216][使用したGBソフトのROMファイル(BOOTH)]]
+
 *** DONE 2023/10/21: オープンソースカンファレンス2023 Tokyo/Fall
     - 10/21(土)の[[https://event.ospn.jp/osc2023-fall/][オープンソースカンファレンス2023 Tokyo/Fall]]で[[https://event.ospn.jp/osc2023-fall/session/1131188][LT発表しました]]
     - LTタイトル：バイナリ生物学でデイジーワールド
