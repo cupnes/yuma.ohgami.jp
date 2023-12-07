@@ -154,8 +154,8 @@
       - [[https://www.youtube.com/watch?v=1vUb2ffTBr4&t=1516s][「刺され！技術書アワード 刺さる部門」のファイナリスト作品にノミネートしました！]]
 
 *** へにゃぺんて活動報告2020年夏号(PDF版)
-    [[https://techbookfest.org/product/5998833303552000][file:har2sp_cover.png]]
-    → *[[https://techbookfest.org/product/5998833303552000][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+    [[file:henyapente_activity_report_2020_summer.pdf][file:har2sp_cover.png]]
+    → *PDF版([[file:henyapente_activity_report_2020_summer.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/5998833303552000][技術書典オンラインマーケット]])*
 
     - 初版発行日: 2020/09/12 (技術書典9)
     - オンラインとら祭り2020夏で頒布したGBソフト「へにゃぺんて活動報告2020年夏号」のPDF移植版！
