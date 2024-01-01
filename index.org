@@ -196,6 +196,9 @@
     - 筆者が開発し使用しているシェルスクリプト製のアセンブラなどを使用して、ステップバイステップで、タイルによる背景描画、キー入力、画面スクロールまでを行います。
     - サンプルコードは↓で公開しています(GitHub)
       - https://github.com/cupnes/gb_programming_with_shell-script_samples
+    - 追加情報
+      - GBのアーキテクチャについてはこちら↓も日本語でまとめられていて大変参考になります
+	- [[https://w.atwiki.jp/gbspec/][GB Spec - atwiki（アットウィキ）]]
 
 *** バイナリ生成環境「daisy-tools」実験報告
     [[file:Daisy-Tools_Laboratory_Report.pdf][file:dtlr_cover.png]]
