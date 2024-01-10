@@ -27,6 +27,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** Daisyworld DEMO - Daisy OS GB v0.3.0
+    [[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][file:dog030_cover.png]]
+    → *[[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][プラウザ上でプレイ(itch.io)(上記画像リンク先と同じ)]]*
+
+    - 最初の公開日: 2024/01/10
+    - バイナリ生物学に基づくシステム上でデイジーワールドを動作させるデモをGBソフトとして作ってみたものです
+    - 白と黒の2種類のデイジーにより地表温度が生育適温(20℃)付近へ自ずと調節されていく様子を見ることができます
+    - ユーザー操作としては、環境に存在するデイジーを間引いたり(消去)、地表温度を強制的に上げたり下げたり、といった外乱を与えることができます
+    - 詳しくは上記リンク先のページをご覧ください
+
 *** よりシンプルなバイナリ生物学の本
     [[file:Simpler-Binary-Biology-Book.pdf][file:sbbb-cover.png]]
     → *PDF版([[file:Simpler-Binary-Biology-Book.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/wwmmiQYtue5QT29Ye8mtgm][技術書典オンラインマーケット]])*
