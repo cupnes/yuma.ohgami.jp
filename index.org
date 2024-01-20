@@ -570,6 +570,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2024/01/19: レトロゲーム勉強会#09
+    - 1/19(金)の[[https://retrog.connpass.com/event/291020/][レトロゲーム勉強会#09]]でLT発表しました
+    - LTタイトル：Daisy OSでデイジーワールド！
+      - [[https://www.slideshare.net/slideshows/daisy-os/265428422][スライド資料(SlideShare)]]
+
 *** DONE 2023/12/03: レトロクリエイターズ2023
     - 12/3(日)の[[https://retrocreators.wixsite.com/event][レトロクリエイターズ2023]]でサークルと作品について発表しました
     - タイトル：へにゃぺんてサークル紹介
