@@ -31,6 +31,8 @@
     [[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][file:dog030_cover.png]]
     → *[[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][プラウザ上でプレイ(itch.io)(上記画像リンク先と同じ)]]*
 
+    → *[[https://yohgami.itch.io/daisyos-dev][開発版(itch.io)]]*
+
     - 最初の公開日: 2024/01/10
     - バイナリ生物学に基づくシステム上でデイジーワールドを動作させるデモをGBソフトとして作ってみたものです
     - 白と黒の2種類のデイジーにより地表温度が生育適温(20℃)付近へ自ずと調節されていく様子を見ることができます
