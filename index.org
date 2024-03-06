@@ -659,6 +659,10 @@
     - LTタイトル：技術書典12新刊『セガサターンとMIDIで通信する本』の紹介
       - [[https://youtu.be/wPjeK2bIvwE?t=393][録画(YouTube)]]
 
+*** DONE 2021/10/23: オープンソースカンファレンス2021 Online/Fall
+    - 10/23(土)の[[https://event.ospn.jp/osc2021-online-fall/][オープンソースカンファレンス2021 Online/Fall]]の[[https://event.ospn.jp/osc2021-online-fall/session/456694][『OSC200回記念ライトニングトーク「OSCと私」』]]でLT発表しました
+    - LTタイトル：OSCとみなさんのおかげでした
+
 *** DONE 2021/08/29: オープンソースカンファレンス2021 Online/Aizu
     - 8/29(日)の[[https://ospn.connpass.com/event/220482/][オープンソースカンファレンス2021 Online/Aizu]]でLT発表しました
     - LTタイトル：セガサターンマシン語プログラミングの紹介
