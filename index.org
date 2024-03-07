@@ -722,6 +722,10 @@
      - 内容は次の冬コミ(C95)の新刊紹介です
      - [[https://figure.uchinokomato.me/maker][ぷちのこメーカー]]というサービスでマスコットキャラクター作ってみたこととかも話しました
 
+**** DONE 2018/10/28: オープンソースカンファレンス2018 Tokyo/Fall
+     - 10/28(日)の[[https://www.ospn.jp/osc2018-fall/][オープンソースカンファレンス2018 Tokyo/Fall]]で[[https://www.ospn.jp/osc2018-fall/modules/eguide/e2.html][LT発表しました]]！
+     - LTタイトル：自作OS自動化のPoCとしての遺伝的MBR
+
 **** DONE 2018/04/14: Open Source UN-Conference 2018 Kawagoe
      - 4/14(土)の[[https://koedolug.connpass.com/event/77065/][Open Source UN-Conference 2018 Kawagoe]]でLT発表しました！
      - 当日は、自作OS上で発表していましたが、PDF版は[[https://www.slideshare.net/yarakawa/x8664os][コチラ]]にアップロードしています
