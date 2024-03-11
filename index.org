@@ -572,6 +572,9 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2024/03/10: オープンソースカンファレンス2024 Tokyo/Spring
+    - 3/10(日)の[[https://event.ospn.jp/osc2024-spring/][オープンソースカンファレンス2024 Tokyo/Spring]]の『OSC20年特別企画「私とOSC」』でLT発表しました
+
 *** DONE 2024/01/19: レトロゲーム勉強会#09
     - 1/19(金)の[[https://retrog.connpass.com/event/291020/][レトロゲーム勉強会#09]]でLT発表しました
     - LTタイトル：Daisy OSでデイジーワールド！
