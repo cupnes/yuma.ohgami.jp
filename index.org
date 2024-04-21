@@ -573,6 +573,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2024/04/20: Open Source UN-Conference 2024 Kawagoe
+    - 4/20(土)の[[https://koedolug.connpass.com/event/310831/][Open Source UN-Conference 2024 Kawagoe]]でLT発表しました
+    - LTタイトル：独自OS「DaisyOS GB」の紹介
+      - [[https://www.slideshare.net/slideshow/open-source-unconference-2024-kawagoe-osdaisyos-gb/267390613][スライド資料(SlideShare)]]
+
 *** DONE 2024/03/10: オープンソースカンファレンス2024 Tokyo/Spring
     - 3/10(日)の[[https://event.ospn.jp/osc2024-spring/][オープンソースカンファレンス2024 Tokyo/Spring]]の『OSC20年特別企画「私とOSC」』でLT発表しました
 
