@@ -28,6 +28,14 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** へにゃぺんて活動報告2024年春号
+    [[file:Henyapente-Activity-Report-2024-Spring.pdf][file:har24sp-cover.png]]
+    → *PDF版([[file:Henyapente-Activity-Report-2024-Spring.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]])*
+
+    - 初版発行日: 2024/05/12 (第十回 技術書同人誌博覧会)
+    - 当サークルの独自OSとして製作している「実行プログラム等のバイナリを生物として扱うOS(DaisyOS)」のゲームボーイ版の現行バージョンを紹介します。
+    - 独自な世界観に基づくOSですが、「なぜこの様なOSを作るのか」といった所から説明し、このOS自体の解説も行います。
+
 *** Daisyworld DEMO - DaisyOS GB v0.3
     [[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][file:dog030_cover.png]]
     → *[[https://yohgami.itch.io/daisyworld-demo-daisy-os-v030][プラウザ上でプレイ(itch.io)(上記画像リンク先と同じ)]]*
