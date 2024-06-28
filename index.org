@@ -590,6 +590,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2024/06/28: レトロゲーム勉強会#10
+    - 6/28(金)の[[https://retrog.connpass.com/event/308272/][レトロゲーム勉強会#10]]でLT発表しました
+    - LTタイトル：最近のGB向け独自OS活動について
+      - [[https://www.slideshare.net/slideshow/gb-os-10/269952249][スライド資料(SlideShare)]]
+
 *** DONE 2024/04/20: Open Source UN-Conference 2024 Kawagoe
     - 4/20(土)の[[https://koedolug.connpass.com/event/310831/][Open Source UN-Conference 2024 Kawagoe]]でLT発表しました
     - LTタイトル：独自OS「DaisyOS GB」の紹介
