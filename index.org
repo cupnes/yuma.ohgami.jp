@@ -600,6 +600,10 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2024/11/02: openSUSE.Asia Summit 2024
+    - [[https://events.opensuse.org/conferences/oSAS24][openSUSE.Asia Summit 2024]]の1日目(11/2)に「[[https://events.opensuse.org/conferences/oSAS24/program/proposals/4778][The OS Theory and Design Based on Biological Concepts]]」というタイトルで発表しました
+    - 資料などは上記のセッションページをご覧ください
+
 *** DONE 2024/06/28: レトロゲーム勉強会#10
     - 6/28(金)の[[https://retrog.connpass.com/event/308272/][レトロゲーム勉強会#10]]でLT発表しました
     - LTタイトル：最近のGB向け独自OS活動について
