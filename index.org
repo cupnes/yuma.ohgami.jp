@@ -14,7 +14,8 @@
 ** 主な活動場所
    | ソースコード        | http://github.com/cupnes/                    |
    | ブログ              | https://yohgami.hateblo.jp/                  |
-   | 発表資料            | https://www.slideshare.net/yarakawa/         |
+   | 発表資料            | https://speakerdeck.com/cupnes               |
+   |                     | https://www.slideshare.net/yarakawa/         |
    | YouTube(過去のデモ) | https://www.youtube.com/@henyapente          |
    | Twitter             | https://twitter.com/yohgami                  |
    | Bluesky             | https://bsky.app/profile/yohgami.bsky.social |
