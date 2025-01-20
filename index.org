@@ -17,7 +17,7 @@
    | 発表資料            | https://speakerdeck.com/cupnes               |
    |                     | https://www.slideshare.net/yarakawa/         |
    | YouTube(過去のデモ) | https://www.youtube.com/@henyapente          |
-   | Twitter             | https://twitter.com/yohgami                  |
+   | X                   | https://x.com/yohgami                        |
    | Bluesky             | https://bsky.app/profile/yohgami.bsky.social |
 
 *** DONE 最近は使用していない場所
@@ -404,6 +404,8 @@
     - [[http://funlinux.org/os5][OS5について詳しくはこちら]]
 
 ** 出展情報
+   更新が滞り中です・・。最新の情報はX等をご覧ください。
+
 *** DONE 2019/11/01: 技術同人誌再販Night★#5
     - 11/1(金) 18:00〜21:00で開催された[[https://techbook-and-ethanol.connpass.com/event/149245/][技術同人誌再販Night★#5]]でブース出展しました!
     - 技術書典7の新刊や、それ以前の既刊の再販です
@@ -600,6 +602,16 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2025/01/18: 小江戸らぐ 1月のオフな集まり(第270回)
+    - 1/18(土)の[[https://koedolug.connpass.com/event/341449/][小江戸らぐ 1月のオフな集まり(第270回)]]で発表しました
+    - タイトル：最近の自作OSネタ
+      - [[https://speakerdeck.com/cupnes/zui-jin-nozi-zuo-osneta][スライド資料(Speaker Deck)]]
+
+*** DONE 2025/01/17: レトロゲーム勉強会#11
+    - 1/17(金)の[[https://retrog.connpass.com/event/323836/][レトロゲーム勉強会#11]]でLT発表しました
+    - LTタイトル：セガサターンのタイル描画機能を試す
+      - [[https://speakerdeck.com/cupnes/segasatannotairumiao-hua-ji-neng-woshi-su][スライド資料(Speaker Deck)]]
+
 *** DONE 2024/11/02: openSUSE.Asia Summit 2024
     - [[https://events.opensuse.org/conferences/oSAS24][openSUSE.Asia Summit 2024]]の1日目(11/2)に「[[https://events.opensuse.org/conferences/oSAS24/program/proposals/4778][The OS Theory and Design Based on Biological Concepts]]」というタイトルで発表しました
     - 資料などは上記のセッションページをご覧ください
