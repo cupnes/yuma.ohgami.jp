@@ -25,7 +25,7 @@
     | Wiki       | https://www40.atwiki.jp/cupnes/ |
 
 ** 同人誌/同人作品
-   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://www.beep-shop.com/ec/products/list?category_id=1015][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
+   紙版は[[https://ec.toranoana.shop/tora/ec/cot/circle/2UPAeD6Q8475d260d687/all/][とらのあな様]]と一部は[[https://channel.beep-shop.com/products/list?category_id=&name=%E3%81%B8%E3%81%AB%E3%82%83%E3%81%BA%E3%82%93%E3%81%A6][BEEP様]]、[[https://www.melonbooks.co.jp/circle/index.php?circle_id=104561][メロンブックス様]]にて販売中！
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
@@ -79,7 +79,7 @@
 
 *** SimHでPDP-7ベアメタルプログラミング
     [[file:PDP7-BareMetal-Programming-with-SimH.pdf][file:pbps-cover.png]]
-    → *PDF版([[file:PDP7-BareMetal-Programming-with-SimH.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-8--36029][BEEP]])*
+    → *PDF版([[file:PDP7-BareMetal-Programming-with-SimH.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/bNt2JRY8VcGgPbgJHjD2yA][技術書典オンラインマーケット]])　　　　　紙版([[https://channel.beep-shop.com/products/detail/36029][BEEP]])*
 
     - 初版発行日: 2023/05/20 (技術書典14)
     - 「SimH」というシミュレータを用いて、「PDP-7」という1960年代のコンピュータをアセンブリ言語で直接制御するベアメタルプログラミングを行う本です！
@@ -124,7 +124,7 @@
 
 *** セガサターン自作シンセサイザー読本
     [[file:Understanding-the-Sega-Saturn4.pdf][file:uss4_cover.jpg]]
-    → *PDF版([[file:Understanding-the-Sega-Saturn4.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/ityGWSqTutAfH2th5qND1j][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-7--26761][BEEP]])*
+    → *PDF版([[file:Understanding-the-Sega-Saturn4.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/ityGWSqTutAfH2th5qND1j][技術書典オンラインマーケット]])　　　　　紙版([[https://channel.beep-shop.com/products/detail/26761][BEEP]])*
 
     - 初版発行日: 2022/08/13 (コミックマーケット100)
     - [[https://youtube.com/playlist?list=PLyRFvsy-N_GQKmC8_yqhvtLsnxlyxn1Lp][セガサターン自作シンセサイザー]]についての技術解説本です
@@ -134,7 +134,7 @@
 
 *** セガサターンとMIDIで通信する本
     [[file:Communicating-Sega-Saturn-MIDI.pdf][file:cssm_cover.jpg]]
-    → *PDF版([[file:Communicating-Sega-Saturn-MIDI.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/5326410916823040][技術書典オンラインマーケット]])　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-6--19770][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030969615/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1372235][メロンブックス]])*
+    → *PDF版([[file:Communicating-Sega-Saturn-MIDI.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/5326410916823040][技術書典オンラインマーケット]])　　　　　紙版([[https://channel.beep-shop.com/products/detail/19770][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030969615/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1372235][メロンブックス]])*
 
     - 初版発行日: 2022/01/22 (技術書典12)
     - 実はセガサターンには、当時あったデバイスを使うことで、電子楽器を接続するインタフェースであるMIDIの接続が行えます
@@ -145,7 +145,7 @@
 
 *** セガサターンCDシステムのうすい本
     [[https://techbookfest.org/product/5821234367430656][file:uss2_cover.png]]
-    → *[[https://techbookfest.org/product/5821234367430656][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-5--19322][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030961389/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1178260][メロンブックス]])*
+    → *[[https://techbookfest.org/product/5821234367430656][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://channel.beep-shop.com/products/detail/19322][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030961389/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1178260][メロンブックス]])*
 
     - 初版発行日: 2021/12/31 (コミックマーケット99)
     - セガサターンのCDドライブ周りは実は内部的に独立したシステムになっています
@@ -155,7 +155,7 @@
 
 *** エミュレータのコードを読んでわかるセガサターン
     [[https://techbookfest.org/product/5711801452855296][file:uss_cover.png]]
-    → *[[https://techbookfest.org/product/5711801452855296][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-4--13279][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030925359/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1077270][メロンブックス]])*
+    → *[[https://techbookfest.org/product/5711801452855296][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://channel.beep-shop.com/products/detail/13279][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030925359/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=1077270][メロンブックス]])*
 
     - 初版発行日: 2021/07/10 (技術書典11)
     - セガサターンエミュレータ「Yabause」のソースコードを読むことで、セガサターンというハードがどんな作りのハードだったのかを知る、という本です
@@ -169,7 +169,7 @@
 
 *** ゲームボーイOS「AMADO」v0.03
     [[https://yohgami.booth.pm/items/2636771][file:amado_v0.03_version.png]]
-    → *[[https://yohgami.booth.pm/items/2636771][ROM版(BOOTH)(上記画像リンク先と同じ)]]　　　　　カートリッジ版([[https://www.beep-shop.com/ec/products/detail/BD-2--6965][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030876245/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=824942][メロンブックス]])*
+    → *[[https://yohgami.booth.pm/items/2636771][ROM版(BOOTH)(上記画像リンク先と同じ)]]　　　　　カートリッジ版([[https://channel.beep-shop.com/products/detail/6965][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030876245/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=824942][メロンブックス]])*
 
     - 初版発行日: 2020/12/30 (エアコミケ2)
     - ゲームボーイ上で動作するOS「AMADO」の2度目のバージョンアップです
@@ -183,7 +183,7 @@
 
 *** ゲームボーイOS「AMADO」で8ビットマシン語入門
     [[https://techbookfest.org/product/5190959769845760][file:i8bmla_cover.png]]
-    → *[[https://techbookfest.org/product/5190959769845760][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-3--7866][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030888063/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=806410][メロンブックス]])*
+    → *[[https://techbookfest.org/product/5190959769845760][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]　　　　　紙版([[https://channel.beep-shop.com/products/detail/7866][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030888063/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=806410][メロンブックス]])*
 
     - 初版発行日: 2020/12/26 (技術書典10)
     - ゲームボーイ上で動作するOS「AMADO」を使って、ゲームボーイ上でマシン語プログラミングを体験する本です
@@ -229,7 +229,7 @@
 
 *** シェルスクリプトでゲームボーイプログラミング入門
     [[file:GB-Programming-with-Shell-Script.pdf][file:gbps_cover.png]]
-    → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　紙版([[https://www.beep-shop.com/ec/products/detail/BD-1--3048][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030828703/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821036][メロンブックス]])*
+    → *[[file:GB-Programming-with-Shell-Script.pdf][PDF版(表紙画像リンク先と同じ)]]　　　　　[[file:GB-Programming-with-Shell-Script][HTML版]]　　　　　紙版([[https://channel.beep-shop.com/products/detail/3048][BEEP]],[[https://ecs.toranoana.jp/tora/ec/item/040030828703/][とらのあな]],[[https://www.melonbooks.co.jp/detail/detail.php?product_id=821036][メロンブックス]])*
 
     - 初版発行日: 2020/05/10 (コミックマーケット98[中止])
     - シェルスクリプトだけでゲームボーイのROMファイルを作る本です。
