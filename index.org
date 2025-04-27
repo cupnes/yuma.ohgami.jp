@@ -602,6 +602,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2025/04/26: Open Source un-Conference 2025 Kawagoe
+    - 4/26(土)の[[https://koedolug.connpass.com/event/345457/][Open Source un-Conference 2025 Kawagoe]]でLT発表しました
+    - LTタイトル：RPGOS(仮)進捗紹介
+      - [[https://speakerdeck.com/cupnes/heniyapentexin-zuo-osnogoshao-jie][スライド資料(Speaker Deck)]]
+
 *** DONE 2025/02/22: オープンソースカンファレンス2025 Tokyo/Spring
     - [[https://event.ospn.jp/osc2025-spring/][オープンソースカンファレンス2025 Tokyo/Spring]]の2日目(2/22(土))の[[https://event.ospn.jp/osc2025-spring/session/2017030][ライトニングトーク＆閉会式]]でLT発表しました
     - タイトル：へにゃぺんて新作OSのご紹介
@@ -778,7 +783,7 @@
     - 内容は技術書典7新刊である「x86_64機械語本」の紹介です
     - 冒頭の無限ループプログラムからその機械語表現を理解するところまでを紹介しました
 
-*** DONE 昨年以前
+*** DONE それ以前
 **** DONE 2018/12/08: 小江戸らぐ 12月のオフな集まり(第197回)
      - 12/8(土)の[[https://koedolug.connpass.com/event/111548/][小江戸らぐ 12月のオフな集まり(第197回)]]で発表しました
      - 内容は次の冬コミ(C95)の新刊紹介です
