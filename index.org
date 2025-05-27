@@ -29,6 +29,14 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** RPGOS v0.3
+    [[https://plicy.net/GamePlay/202689][file:rpgos03_cover.png]]
+    → *[[https://plicy.net/GamePlay/202689][プラウザ上でプレイ(PLiCy)(上記画像リンク先と同じ)]]*
+
+    - 最初の公開日: 2025/05/26
+    - RPGのような世界の上で動作するOSです。
+    - まだまだ開発版であり、OSとしてできることも唯一存在するファイルであるHELLO.TXTを見ることくらいです。。
+
 *** セガサターンタイル描画のうすい本
     [[file:Understanding-the-Sega-Saturn5.pdf][file:uss5_cover.png]]
     → *PDF版([[file:Understanding-the-Sega-Saturn5.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/vjpRvEb9QcyEpFp2U23YW2][技術書典オンラインマーケット]])*
