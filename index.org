@@ -679,6 +679,10 @@
     - LTタイトル：去年「バイナリ生物学」で今年「PDP-7」だったのはなぜなのか？
       - [[https://www.slideshare.net/yarakawa/pdp7][スライド資料(SlideShare)]]
 
+*** DONE 2023/08/07-11: セキュリティ・ネクストキャンプ2023
+    - [[https://www.ipa.go.jp/jinzai/security-camp/2023/next/][セキュリティ・ネクストキャンプ2023]]にて、「[[https://www.ipa.go.jp/jinzai/security-camp/2023/next/program_list.html][SimHでPDP-7ベアメタルプログラミング]]」というタイトルで2コマ(スケジュールN5、N8)の講義を行いました
+    - 講義資料は[[https://scrapbox.io/simh-pdp7/%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%81%A7PDP-7%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC][こちら(Scrapbox)]]
+
 *** DONE 2023/07/21: レトロゲーム勉強会#08
     - 7/21(金)の[[https://retrog.connpass.com/event/272131/][レトロゲーム勉強会#08]]でLT発表しました
     - LTタイトル：60年代ゲームハードPDP-7のご紹介
