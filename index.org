@@ -617,6 +617,13 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2025/10/25: オープンソースカンファレンス2025 Tokyo/Fall
+    - 10/25(土)の[[https://event.ospn.jp/osc2025-fall/][オープンソースカンファレンス2025 Tokyo/Fall]]で以下の発表を行いました
+      - ステージ企画「Linux デスクトップ見せて」内で、自身が使用しているThinkPad + Debian + awesome環境を紹介
+	- スライド無し
+      - ステージ企画「ライトニングトーク」にて「RPGOS NPC独自アセンブリプログラミング」というタイトルでLT
+	- [[https://speakerdeck.com/cupnes/rpgos-npcdu-zi-asenburipuroguramingu][スライド資料(Speaker Deck)]]
+
 *** DONE 2025/04/26: Open Source un-Conference 2025 Kawagoe
     - 4/26(土)の[[https://koedolug.connpass.com/event/345457/][Open Source un-Conference 2025 Kawagoe]]でLT発表しました
     - LTタイトル：RPGOS(仮)進捗紹介
