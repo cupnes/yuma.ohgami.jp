@@ -29,6 +29,17 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** RPGOS NPC独自アセンブリプログラミング
+    [[file:RPGOS_NPC_original_asm_program.pdf][file:rnoap_cover.png]]
+    → *PDF版([[file:RPGOS_Book.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]])*
+
+    - 初版発行日: 2025/10/26 (第十二回技術書同人誌博覧会)
+    - 「RPGのような世界で動くOS」として制作している「RPGOS」のNPC（Non Player Character）を、独自な言語でプログラミングできるようにした「NPCプログラミング環境」を紹介し、実際に簡単なプログラミングを行ってみます。
+    - 本書で紹介している「NPCプログラミング環境」は以下で公開しています。
+      - https://plicy.net/GamePlay/209620
+    - また、サンプルリポジトリは以下の通りです。
+      - https://github.com/cupnes/rpgos_npc_programming_samples
+
 *** RPGのような世界で動くOSの本
     [[file:RPGOS_Book.pdf][file:rob_cover.png]]
     → *PDF版([[file:RPGOS_Book.pdf][PDFファイル直リンク(表紙画像リンク先と同じ)]],[[https://techbookfest.org/product/emuYWSg2tEfBAGVcpWQmpG][技術書典オンラインマーケット]])*
