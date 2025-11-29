@@ -55,6 +55,8 @@
     - 最初の公開日: 2025/05/26
     - RPGのような世界の上で動作するOSです。
     - まだまだ開発版であり、OSとしてできることも唯一存在するファイルであるHELLO.TXTを見ることくらいです。。
+    - ファイルシステムがまだ無い時のものですが、このソフトを紹介する動画をYouTubeに上げています。
+      - https://youtu.be/uwrny-POiBU
 
 *** セガサターンタイル描画のうすい本
     [[file:Understanding-the-Sega-Saturn5.pdf][file:uss5_cover.png]]
