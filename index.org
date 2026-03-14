@@ -1188,6 +1188,9 @@
     - [[http://d.hatena.ne.jp/cupnes/20140817/1408236333][Debian 7.6(wheezy)でLinuxカーネル 3.16.1をビルド]]
     - [[http://d.hatena.ne.jp/cupnes/20141224/1419438505][linux-0.01-rm-3.5をQEMU上で実行]]
 
+*** 脆弱性・セキュリティ
+    - [[https://yohgami.hateblo.jp/entry/20180122/1516622132][(自分メモ)Meltdown・SpectreのGoogle Project Zeroの報告内容について]]
+
 ** シェル芸
    - [[http://d.hatena.ne.jp/cupnes/20161215/1481755818][chrootとunshareを使い、シェル上でコマンド7つで簡易コンテナ]]
    - [[http://d.hatena.ne.jp/cupnes/20140819/1408472244][シェルスクリプトでスケジューラ]]
