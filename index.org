@@ -29,6 +29,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** 人間OS v0.1.0
+    | [[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][file:hos010-photo.jpg]] | [[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][file:hos010_cover.png]] |
+    → *[[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2026/04/11 (技術書典20)
+    - 4x5cm程のキーホルダーサイズの本です。
+    - 人間をハードウェアとして、その上で動くOSとなっています。
+    - この本に書かれた通りに読者が振る舞うことで成り立ちます。
+    - 紙とペンを手元に用意し、例えば「$を書く」という指示に従うことで、シェルのプロンプト表示が成立する、といった具合です。
+
 *** 人生ゲームOS
     [[file:golos-map.png][file:golos-map-x241.png]]
     | [[file:golos-cards-1.png][file:golos-cards-1-x241.png]] | [[file:golos-cards-2.png][file:golos-cards-2-x241.png]] |
