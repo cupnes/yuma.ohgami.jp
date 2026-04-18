@@ -29,6 +29,21 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** 人生ゲームOS
+    [[file:golos-map.png][file:golos-map-x241.png]]
+    | [[file:golos-cards-1.png][file:golos-cards-1-x241.png]] | [[file:golos-cards-2.png][file:golos-cards-2-x241.png]] |
+    | [[file:golos-cards-3.png][file:golos-cards-3-x241.png]] | [[file:golos-cards-4.png][file:golos-cards-4-x241.png]] |
+    → *PDF版([[file:golos-map-a2.pdf][マップ(A2版)]],[[file:golos-map-a3.pdf][マップ(A3分割版)]],[[file:golos-cards.pdf][カード類]])*
+
+    - 最初の公開日: 2026/03/29
+    - 3/26(木)〜3/29(日)の[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/index.html][セキュリティ・キャンプ2026コネクト]]の[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/os.html][OSクラス]]のプロデューサー兼講師として行った講義の制作物です。
+    - 様々な方々にOSに親しんでもらうことを目指し、このようなボードゲームを作ってみました！
+    - プレイヤーは脆弱な状態のOSで、左上から開始します。
+    - すごろくのようですが、勝敗は着順ではなくゴール時の⭐️の数で決まります。
+    - ⭐️は何かを達成したりするともらえ、セキュリティインシデントで失います。
+    - ただし、対応するパッチを獲得していれば失わないで済む、という感じです。
+    - マイナス⭐️は、所持⭐️が0のときにマイナス⭐️のマスに止まったとき用です。
+
 *** 単純PC環境
     [[https://plicy.net/GamePlay/223166][file:spe_20260211_cover.png]]
     → *[[https://plicy.net/GamePlay/223166][プラウザ上でプレイ(PLiCy)(上記画像リンク先と同じ)]]*
@@ -640,6 +655,20 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** DONE 2026/03/26-29: セキュリティ・キャンプ2026コネクト
+    - 3/26(木)〜3/29(日)の[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/index.html][セキュリティ・キャンプ2026コネクト]]で[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/os.html][OSクラス]]のプロデューサー兼講師として以下の講義を行いました
+      - 『独自なOSコンテンツ制作 OSの理解を広げ、セキュリティ意識向上を目指す』
+    - 講義では、エンジニア以外の方々にもOSやセキュリティに親しめるコンテンツとして以下のボードゲームを制作しました
+      [[file:golos-map.png][file:golos-map-x241.png]]
+      | [[file:golos-cards-1.png][file:golos-cards-1-x241.png]] | [[file:golos-cards-2.png][file:golos-cards-2-x241.png]] |
+      | [[file:golos-cards-3.png][file:golos-cards-3-x241.png]] | [[file:golos-cards-4.png][file:golos-cards-4-x241.png]] |
+      → *PDF版([[file:golos-map-a2.pdf][マップ(A2版)]],[[file:golos-map-a3.pdf][マップ(A3分割版)]],[[file:golos-cards.pdf][カード類]])*
+      - プレイヤーは脆弱な状態のOSで、左上から開始します。
+      - すごろくのようですが、勝敗は着順ではなくゴール時の⭐️の数で決まります。
+      - ⭐️は何かを達成したりするともらえ、セキュリティインシデントで失います。
+      - ただし、対応するパッチを獲得していれば失わないで済む、という感じです。
+      - マイナス⭐️は、所持⭐️が0のときにマイナス⭐️のマスに止まったとき用です。
+
 *** DONE 2025/10/25: オープンソースカンファレンス2025 Tokyo/Fall
     - 10/25(土)の[[https://event.ospn.jp/osc2025-fall/][オープンソースカンファレンス2025 Tokyo/Fall]]で以下の発表を行いました
       - ステージ企画「Linux デスクトップ見せて」内で、自身が使用しているThinkPad + Debian + awesome環境を紹介
