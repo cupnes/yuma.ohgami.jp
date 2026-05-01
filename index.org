@@ -684,6 +684,11 @@
             [[file:ocos5/Ohgamis-Commentary-on-OS5_20170409.pdf][file:ocos5/cover.png]]
 
 ** 発表情報
+*** STARTED 2026/06/13-2027/03/07: 2026年度 SecHack365 学習駆動コース 大神ゼミ
+    - 2026年度の[[https://sechack365.nict.go.jp/][SecHack365]] [[https://sechack365.nict.go.jp/course/#c02][学習駆動コース]]にて、私のゼミが開講されます！
+    - 学習駆動コースや私のゼミについて詳しくは以下もご覧ください。
+      - https://kozos.jp/sechack365/
+
 *** DONE 2026/03/26-29: セキュリティ・キャンプ2026コネクト
     - 3/26(木)〜3/29(日)の[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/index.html][セキュリティ・キャンプ2026コネクト]]で[[https://www.ipa.go.jp/jinzai/security-camp/2025/connect/os.html][OSクラス]]のプロデューサー兼講師として以下の講義を行いました
       - 『独自なOSコンテンツ制作 OSの理解を広げ、セキュリティ意識向上を目指す』
