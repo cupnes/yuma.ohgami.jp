@@ -53,8 +53,8 @@
     - マイナス⭐️は、所持⭐️が0のときにマイナス⭐️のマスに止まったとき用です。
 
 *** 単純PC環境
-    [[https://plicy.net/GamePlay/223166][file:spe_20260211_cover.png]]
-    → *[[https://plicy.net/GamePlay/223166][プラウザ上でプレイ(PLiCy)(上記画像リンク先と同じ)]]*
+    [[https://yuma.ohgami.jp/spe/][file:spe_20260211_cover.png]]
+    → *プラウザ上でプレイ([[https://yuma.ohgami.jp/spe/][上記画像リンク先と同じ]],[[https://plicy.net/GamePlay/223166][PLiCy]])*
 
     - 最初の公開日: 2026/02/11
     - PC環境を極力単純化したシミュレーターのようなものです。
