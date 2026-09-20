@@ -23,6 +23,14 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** セガサターンのことをしゃべって文字起こしした本
+    [[file:A-Book-Based-on-a-Monologue-About-the-Sega-Saturn.pdf][file:bbmass-incase-front.jpg]]
+    → *[[file:A-Book-Based-on-a-Monologue-About-the-Sega-Saturn.pdf][PDF版(上記画像リンク先と同じ)]]*
+
+    - 初版発行日: 2026/09/13 (第十四回技術書同人誌博覧会)
+    - タイトルの通り、セガサターンの事をしゃべって文字起こしした本です。
+    - 内容としては、既刊で所々書いたものも含め、私が面白いと思うセガサターンの技術的ネタをまとめたものです。
+
 *** 人間OS v0.1.0
     | [[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][file:hos010-photo.jpg]] | [[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][file:hos010_cover.png]] |
     → *[[https://techbookfest.org/product/gbpm4sLL2xUsuKyxZcE5cJ][PDF版(技術書典オンラインマーケット)(上記画像リンク先と同じ)]]*
