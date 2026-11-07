@@ -23,6 +23,16 @@
 
    PDF版・HTML版は無料で公開中！　EPUB版は[[https://bookwalker.jp/author/87619/][BOOK☆WALKER様]]にて販売中！
 
+*** トランプOS
+    [[https://yuma.ohgami.jp/cards-os/][file:cos-cover.png]]
+    → *[[https://yuma.ohgami.jp/cards-os/][専用ページ(上記画像リンク先と同じ)]]*
+
+    - 最初の版の公開日: 2026/11/07
+    - 「トランプ」というハードウェアの上でOSが動いている、と見立てて遊ぶゲームです。
+    - プレイヤーはこのOSの上で動く「プロセス」の1つになります。
+    - トランプのカードを並べてプログラムを書き、自分の番が来たら、それを1命令ずつ実行します。
+    - 上記のページではそのルールをまとめています。
+
 *** セガサターンのことをしゃべって文字起こしした本
     [[file:A-Book-Based-on-a-Monologue-About-the-Sega-Saturn.pdf][file:bbmass-incase-front.jpg]]
     → *[[file:A-Book-Based-on-a-Monologue-About-the-Sega-Saturn.pdf][PDF版(上記画像リンク先と同じ)]]*
